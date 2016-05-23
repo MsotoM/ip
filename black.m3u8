@@ -62,9 +62,11 @@ http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/24
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/comedycentral.png",COMEDY CENTRAL
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports3.png", FOX SPORTS 3
+http://199.180.114.174:88/files/foxsports3312.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dxtv.png",DXTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12mon.png",PAC MOUNTAIN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12mon.png",PAC12 MOUNTAIN
 http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12net.png",PAC NETWORK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12net.png",PAC12 NETWORK
 http://xrxs.net/video/live-p12netw-2328.m3u8
