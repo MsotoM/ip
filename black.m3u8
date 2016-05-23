@@ -1,4 +1,4 @@
-#M3U8
+#EXTM3U 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cartoonnetwork.png",CARTOON NETWORK
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/15
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneychannel.png",DISNEY CHANNEL
