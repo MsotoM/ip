@@ -1,0 +1,59 @@
+#M3U8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cartoonnetwork.png",CARTOON NETWORK
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/15
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneychannel.png",DISNEY CHANNEL
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/26
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo.png",HBO
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/27
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo2.png",HBO2
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo.png", HBO
+http://199.180.114.174:88/files/hbo11.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo2.png",HBO2
+http://199.180.114.174:88/files/hbo235.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbofamily.png",HBO FAMILY
+http://199.180.114.174:88/files/hbofamily453.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fox.png",FOX
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fox1.png",FOX 1
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/10
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fx.png",FX
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/4
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cinecanal.png",CINECANAL
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/14
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cinemax.png",CINEMAX
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/22
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/axn.png",AXN
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/5
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/warner.png",WARNER
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/6
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sony.png",SONY
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/7
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/universal.png",UNIVERSAL
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/9
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tnt.png",TNT
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/11
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tntseries.png",TNT SERIES
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/space.png",SPACE
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/12
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amc.png",AMC
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/13
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/isat.png",I-SAT
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/25
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/syfy.png",SYFY
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/16
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/a%26e.png",A&E
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/17
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/history.png",HISTORY CHANNEL
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/18
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/discovery.png",DISCOVERY CHANNEL
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/19
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/natgeo.png",NATGEO
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/20
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/investigation.png",INVESTIGACION DISCOVERY
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/23
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/trutv.png",TRUTV
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/24
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/comedycentral.png",COMEDY CENTRAL
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/8
