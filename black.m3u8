@@ -1,8 +1,11 @@
 #EXTM3U 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/anime.png",CANAL ANIME
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cartoonnetwork.png",CARTOON NETWORK
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/15
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneychannel.png",DISNEY CHANNEL
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/26
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo.png",HBO
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/27
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo2.png",HBO2
@@ -43,6 +46,7 @@ http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/13
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/25
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/syfy.png",SYFY
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/16
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/a%26e.png",A&E
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/17
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/history.png",HISTORY CHANNEL
@@ -57,3 +61,10 @@ http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/23
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/24
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/comedycentral.png",COMEDY CENTRAL
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dxtv.png",DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12mon.png",PAC MOUNTAIN
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12net.png",PAC NETWORK
+http://xrxs.net/video/live-p12netw-2328.m3u8
