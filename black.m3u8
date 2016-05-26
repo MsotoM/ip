@@ -1,4 +1,7 @@
 #EXTM3U 
+#EXTINF:0 tvg-logo="",NIU TV SANTIAGO
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/anime.png",CANAL ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cartoonnetwork.png",CARTOON NETWORK
@@ -64,9 +67,49 @@ http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports3.png", FOX SPORTS 3
 http://199.180.114.174:88/files/foxsports3312.m3u8
+#EXTINF:0 tvg-logo="",UFC Network
+http://199.180.114.174:88/files/ufc972.m3u8
+#EXTINF:0 tvg-logo="",EUROSPORT FRANCE
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0 tvg-logo="",EUROSPORT UK
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:0 tvg-logo="",DUBAI SPORT 3
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="",CBC SPORT
+http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="",NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:0 tvg-logo="",NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0 tvg-logo="",Fight Sport
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+#EXTINF:0 tvg-logo="",REDBULL TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:0 tvg-logo="",TyC DEPORTES
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dxtv.png",DXTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12mon.png",PAC12 MOUNTAIN
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12net.png",PAC12 NETWORK
 http://xrxs.net/video/live-p12netw-2328.m3u8
+
+#EXTINF:0 tvg-logo="",TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0 tvg-logo="", JAMAICAN TV
+http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
+#EXTINF:0 tvg-logo="", M2O 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:0 tvg-logo="", RADIO MONTE CARLO
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-logo="",AMAZING
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:0 tvg-logo="",VIRGIN RADIO
+http://fms.105.net:1935/live/virgin1/.m3u8?
+#EXTINF:0 tvg-logo="",SMO TV
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:0 tvg-logo="",HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="",PORTALFOXMIX TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
