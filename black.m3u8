@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/niutv.png",NIU TV SANTIAGO
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/smo.png",SMO TV
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/anime.png",CANAL ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
@@ -96,20 +98,20 @@ http://xrxs.net/video/live-p12netw-2328.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tigomusic.png",TIGO MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/m2o.png", M2O 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/xite.png",XITE MUSIC LIVE
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w793430769.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/heart.png",HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amazing.png",AMAZING
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/montecarlo.png", RADIO MONTE CARLO
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/virgintv.png",VIRGIN RADIO
+http://fms.105.net:1935/live/virgin1/.m3u8?
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pfm.png",PORTALFOXMIX TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/realjamaican.png",REAL JAMAICAN TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
-#EXTINF:0 tvg-logo="", M2O 
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
-#EXTINF:0 tvg-logo="", RADIO MONTE CARLO
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-#EXTINF:0 tvg-logo="",AMAZING
-http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:0 tvg-logo="",VIRGIN RADIO
-http://fms.105.net:1935/live/virgin1/.m3u8?
-#EXTINF:0 tvg-logo="",SMO TV
-http://199.217.118.90:1935/smotv/stream/playlist.m3u8
-#EXTINF:0 tvg-logo="",HEART TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="",PORTALFOXMIX TV
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
