@@ -110,7 +110,7 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/virgintv.png",VIRGIN RADIO
 http://fms.105.net:1935/live/virgin1/.m3u8?
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pfm.png",PORTALFOXMIX TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pfmix.png",PORTALFOXMIX TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/realjamaican.png",REAL JAMAICAN TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
