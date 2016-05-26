@@ -52,6 +52,15 @@ http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/25
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/syfy.png",SYFY
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/16
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/laotra.png",LAOTRA
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nova.png",NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mega.png",MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/neox.png",NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/a%26e.png",A&E
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/17
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/history.png",HISTORY CHANNEL
@@ -71,23 +80,23 @@ http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/8
 http://199.180.114.174:88/files/foxsports3312.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ufcn.png",UFC Network
 http://199.180.114.174:88/files/ufc972.m3u8
-#EXTINF:0 tvg-logo="",EUROSPORT FRANCE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurofr.png",EUROSPORT FRANCE
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
-#EXTINF:0 tvg-logo="",EUROSPORT UK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurouk.png",EUROSPORT UK
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:0 tvg-logo="",DUBAI SPORT 3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dubai3.png",DUBAI SPORT 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="",CBC SPORT
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cbcsport.png",CBC SPORT
 http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="",NFL Now HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nflnow.png",NFL NOW HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:0 tvg-logo="",NBA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/versus.png",VERSUS HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:0 tvg-logo="",Fight Sport
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fightsport.png",FIGHT SPORT
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
-#EXTINF:0 tvg-logo="",REDBULL TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/redbulltv.png",REDBULL TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:0 tvg-logo="",TyC DEPORTES
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tyc.png",TYC DEPORTES
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dxtv.png",DXTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
@@ -108,6 +117,12 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/montecarlo.png", RADIO MONTE CARLO
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/deluxemusic.png",DELUXE MUSIC LIVE
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8?wowzasessionid=7017861
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/supersonic.png",SUPERSONIC TV
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8?wowzasessionid=1510375395
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hit.png",HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w314550382.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/virgintv.png",VIRGIN RADIO
 http://tv.105.net:1935/live/virgin1/chunklist_w1380549448.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pfmix.png",PORTALFOXMIX TV
