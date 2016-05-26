@@ -94,9 +94,9 @@ http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12net.png",PAC12 NETWORK
 http://xrxs.net/video/live-p12netw-2328.m3u8
 
-#EXTINF:0 tvg-logo="",TIGO MUSIC
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tigomusic.png",TIGO MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:0 tvg-logo="", JAMAICAN TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/realjamaican.png",REAL JAMAICAN TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 #EXTINF:0 tvg-logo="", M2O 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
