@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/holliwood.png",HOLLYWOORD (ESP)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hollywood.png",HOLLYWOOD (ESP)
 http://88.13.236.125:4022/udp/239.0.0.16:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sundance.png",SUNDANCE CHANNEL(ESP)
 http://88.13.236.125:4022/udp/239.0.0.102:8208
