@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1,Music Box
+http://95.183.112.97:4022/udp/234.5.2.81:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/holliwood.png",HOLLYWOOD (ESP)
 http://88.13.236.125:4022/udp/239.0.0.16:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sundance.png",SUNDANCE CHANNEL(ESP)
@@ -189,9 +191,14 @@ http://tv.105.net:1935/live/virgin1/chunklist_w1380549448.m3u8
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/realjamaican.png",REAL JAMAICAN TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
+
 #EXTINF:-1,Brazzers TV Europe
 http://178.167.18.77:7781/udp/234.5.2.248:1234
 #EXTINF:-1,PlayBoy TV
 http://178.167.18.77:7781/udp/234.5.2.247:1234
+#EXTINF:-1,XXL
+http://95.183.112.97:4022/udp/234.5.2.246:1234
+#EXTINF:-1,PlayBoy TV
+http://95.183.112.97:4022/udp/234.5.2.248:1234
 #EXTINF:-1,Russian Night
 http://178.167.18.77:7781/udp/234.5.2.249:1234
