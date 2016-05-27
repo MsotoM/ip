@@ -1,4 +1,8 @@
 #EXTM3U 
+#EXTINF:-1,Music Box RU
+http://37.192.59.67:81/udp/239.1.8.5:1234
+#EXTINF:-1,Music Box TV
+http://37.192.59.67:81/udp/239.1.8.6:1234
 #EXTINF:-1,MTV Hits
 http://213.231.21.147:7781/udp/224.5.4.185:1234
 #EXTINF:-1,MTV Rocks
