@@ -1,12 +1,9 @@
 #EXTM3U 
-#EXTINF:-1,MTV
+#EXTINF:-1,MTV (RUS)
 http://178.57.241.207:4022/udp/234.5.2.127:1234
 #EXTINF:-1,RUSONG TV
 http://178.167.0.132:7788/udp/234.5.2.156:1234
-#EXTINF:-1,Music Box
-http://178.57.241.207:4022/udp/234.5.2.81:1234
-#EXTINF:-1,Music Box
-http://95.183.112.97:4022/udp/234.5.2.81:1234
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/holliwood.png",HOLLYWOOD (ESP)
 http://88.13.236.125:4022/udp/239.0.0.16:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sundance.png",SUNDANCE CHANNEL(ESP)
@@ -204,7 +201,5 @@ http://178.167.18.77:7781/udp/234.5.2.248:1234
 http://178.167.18.77:7781/udp/234.5.2.247:1234
 #EXTINF:-1,XXL
 http://95.183.112.97:4022/udp/234.5.2.246:1234
-#EXTINF:-1,PlayBoy TV
-http://95.183.112.97:4022/udp/234.5.2.248:1234
 #EXTINF:-1,Russian Night
 http://178.167.18.77:7781/udp/234.5.2.249:1234
