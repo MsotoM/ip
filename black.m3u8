@@ -64,6 +64,8 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/a3s.png",A3S ATRESERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/h2.png",H2
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/28
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/a%26e.png",A&E
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/17
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/history.png",HISTORY CHANNEL
