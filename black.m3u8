@@ -1,4 +1,18 @@
 #EXTM3U 
+#EXTINF:-1,Eurosport
+http://128.72.217.43:34040/udp/233.33.221.55:5050
+#EXTINF:-1,RU TV. ®™sbk™®
+http://128.72.217.43:34040/udp/233.33.221.127:5050
+#EXTINF:-1,Music Box RU
+http://5.129.37.47:81/udp/239.1.8.5:1234
+#EXTINF:-1,Music Box TV
+http://5.129.37.47:81/udp/239.1.8.6:1234
+#EXTINF:-1,VH1 Classic
+http://5.129.37.47:81/udp/239.1.8.7:1234
+#EXTINF:-1,Europa Plus TV
+http://5.129.37.47:81/udp/239.1.8.10:1234
+#EXTINF:-1,RUSONG TV
+http://5.129.37.47:81/udp/239.1.8.14:1234
 #EXTINF:-1,iConcerts
 http://212.164.131.100:1234/udp/225.54.41.49:5000
 #EXTINF:-1,Eurosport
