@@ -236,6 +236,9 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/realjamaican.png",REAL JAMAICAN TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ten10.png",TEN10 HD
+http://publish.stroom.us:1935/cus_8WuTeEYHCcDuvU/smil:8WuTeEYHCcDuvU.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mediathek.png",MEDIATHEK HIGHLIGHTS LIVE TV
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/latin.png",LATIN LIVE SEX
