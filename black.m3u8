@@ -205,7 +205,7 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8?wowzasessionid=15103
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w314550382.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/virgintv.png",VIRGIN RADIO
 http://tv.105.net:1935/live/virgin1/chunklist_w1380549448.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pfmix.png",PORTALFOXMIX TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/portalfoxmix.png",PORTALFOXMIX TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/realjamaican.png",REAL JAMAICAN TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
