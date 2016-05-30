@@ -172,7 +172,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/versus.png",VERSUS HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fightsport.png",FIGHT SPORT
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fsport.png",FIGHT SPORT
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/redbulltv.png",REDBULL TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
