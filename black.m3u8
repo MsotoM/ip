@@ -1,78 +1,5 @@
 #EXTM3U 
-#EXTINF:-1,Bridge TV
-http://178.167.0.132:7788/udp/234.5.2.123:1234
-#EXTINF:-1,High TV
-http://178.167.0.132:7788/udp/234.5.2.32:1234
-#EXTINF:-1,Extreme sports
-http://178.167.0.132:7788/udp/234.5.2.75:1234
 
-#EXTINF:-1,MTV (RUS)
-http://178.57.241.207:4022/udp/234.5.2.127:1234
-#EXTINF:-1,RUSONG TV
-http://178.167.0.132:7788/udp/234.5.2.156:1234
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/holliwood.png",HOLLYWOOD (ESP)
-http://88.13.236.125:4022/udp/239.0.0.16:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sundance.png",SUNDANCE CHANNEL(ESP)
-http://88.13.236.125:4022/udp/239.0.0.102:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/energy.png",ENERGY (ESP)
-http://88.13.236.125:4022/udp/239.0.0.59:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/garagetv.png",GARAGE TV (ESP)
-http://88.13.236.125:4022/udp/239.0.0.99:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/babytv.png",BABY TV
-http://88.13.236.125:4022/udp/239.0.0.113:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneyjr.png",DISNEY JUNIOR (ESP)
-http://88.13.236.125:4022/udp/239.0.0.10:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/panda.png",CANAL PANDA
-http://88.13.236.125:4022/udp/239.0.0.117:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nickjr.png",NICK JR (ESP)
-http://88.13.236.125:4022/udp/239.0.0.115:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nickelodeon.png",NICKELODEON (ESP)
-http://88.13.236.125:4022/udp/239.0.0.69:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneyxd.png",DISNEY XD (ESP)
-http://88.13.236.125:4022/udp/239.0.0.11:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneychannel.png",DISNEY CHANNEL (ESP)
-http://88.13.236.125:4022/udp/239.0.0.64:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/boing.png",BOING 
-http://88.13.236.125:4022/udp/239.0.0.66:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/solmusica.png",SOL MUSICA
-http://88.13.236.125:4022/udp/239.0.0.39:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vh1.png",VH1
-http://88.13.236.125:4022/udp/239.0.0.75:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/teledeporte.png",TELEDEPORTE
-http://88.13.236.125:4022/udp/239.0.0.79:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurosport1.png",EUROSPORT
-http://88.13.236.125:4022/udp/239.0.0.18:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurosport2.png",EUROSPORT 2
-http://88.13.236.125:4022/udp/239.0.0.37:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/futbolreplay.png",FUTBOL REPLAY
-http://88.13.236.125:4022/udp/239.0.0.97:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/paramount.png",PARAMOUNT CHANNEL (ESP)
-http://88.13.236.125:4022/udp/239.0.0.90:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mtv.png",MTV
-http://88.13.236.125:4022/udp/239.0.0.211:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nostop.png",NON STOP PEOPLE
-http://88.13.236.125:4022/udp/239.0.0.212:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/canalmas.png",CANAL+
-http://88.13.236.125:4022/udp/239.0.0.108:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/odisea.png",ODISEA
-http://88.13.236.125:4022/udp/239.0.0.22:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/a%26e.png",A&E (ESP)
-http://88.13.236.125:4022/udp/239.0.0.38:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/viajar.png",VIAJAR
-http://88.13.236.125:4022/udp/239.0.0.20:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dmax.png",DISCOVERY MAX (ESP)
-http://88.13.236.125:4022/udp/239.0.0.32:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cocina.png",COCINA (ESP)
-http://88.13.236.125:4022/udp/239.0.0.27:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/decasa.png",DECASA
-http://88.13.236.125:4022/udp/239.0.0.71:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dinv.png",Crimen e Investigacion (ESP)
-http://88.13.236.125:4022/udp/239.0.0.57:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/divinity.png",DIVINITY
-http://88.13.236.125:4022/udp/239.0.0.48:8208
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bein.png",BEIN DIRECTO
-http://88.13.236.125:4022/udp/239.0.3.35:8208
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/niutv.png",NIU TV SANTIAGO
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/smo.png",SMO TV
@@ -201,11 +128,3 @@ http://tv.105.net:1935/live/virgin1/chunklist_w1380549448.m3u8
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/realjamaican.png",REAL JAMAICAN TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
-
-#EXTINF:-1,Brazzers TV Europe
-http://178.167.18.77:7781/udp/234.5.2.248:1234
-#EXTINF:-1,PlayBoy TV
-http://178.167.18.77:7781/udp/234.5.2.247:1234
-#EXTINF:-1,Rus Night
-http://178.167.18.77:7781/udp/234.5.2.249:1234
-
