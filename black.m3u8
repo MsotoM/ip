@@ -1,4 +1,28 @@
 #EXTM3U 
+#EXTINF:-1,iConcerts
+http://212.164.131.100:1234/udp/225.54.41.49:5000
+#EXTINF:-1,Eurosport
+http://212.164.131.100:1234/udp/225.54.23.130:5000
+#EXTINF:-1,Eurosport 2
+http://212.164.131.100:1234/udp/225.54.23.131:5000
+#EXTINF:-1,Extreme Sports
+http://212.164.131.100:1234/udp/225.54.23.139:5000
+#EXTINF:-1,DTX
+http://212.164.79.84:1234/udp/225.54.23.74:5000
+#EXTINF:-1,MTV
+http://212.164.79.84:1234/udp/225.54.23.112:5000
+#EXTINF:-1,Russian Music Box
+http://212.164.79.84:1234/udp/225.54.23.115:5000
+#EXTINF:-1,Music Box TV
+http://212.164.79.84:1234/udp/225.54.23.116:5000
+#EXTINF:-1,MTV Dance
+http://212.164.79.84:1234/udp/225.54.23.124:5000
+#EXTINF:-1,MTV Hits
+http://212.164.79.84:1234/udp/225.54.23.125:5000
+#EXTINF:-1,MTV Rocks
+http://212.164.79.84:1234/udp/225.54.23.126:5000
+#EXTINF:-1,VH1 Classic
+http://212.164.79.84:1234/udp/225.54.23.127:5000
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/niutv.png",NIU TV SANTIAGO
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
