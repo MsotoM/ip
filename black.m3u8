@@ -1,27 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD1
-http://195.154.207.145:8000/play/beins1hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD3
-http://195.154.207.145:8000/play/beinshd3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD4
-http://195.154.207.145:8000/play/beinshd4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD5
-http://195.154.207.145:8000/play/beinshd5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD6
-http://195.154.207.145:8000/play/beinshd6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD7
-http://195.154.207.145:8000/play/beinshd7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD8
-http://195.154.207.145:8000/play/beinshd8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD9
-http://195.154.207.145:8000/play/beinshd9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD10
-http://195.154.207.145:8000/play/beinshd10
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD11
-http://195.154.207.145:8000/play/beinshd11
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD 12
-http://195.154.207.145:8000/play/beinshd12
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png",LA RED
 http://d21x6rlkgtztws.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ucv.png",UCV 
@@ -153,6 +130,28 @@ http://128.72.217.43:34040/udp/233.33.221.55:5050
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurosport.png",EUROSPORT UK
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD1
+http://195.154.207.145:8000/play/beins1hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD3
+http://195.154.207.145:8000/play/beinshd3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD4
+http://195.154.207.145:8000/play/beinshd4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD5
+http://195.154.207.145:8000/play/beinshd5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD6
+http://195.154.207.145:8000/play/beinshd6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD7
+http://195.154.207.145:8000/play/beinshd7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD8
+http://195.154.207.145:8000/play/beinshd8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD9
+http://195.154.207.145:8000/play/beinshd9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD10
+http://195.154.207.145:8000/play/beinshd10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD11
+http://195.154.207.145:8000/play/beinshd11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD 12
+http://195.154.207.145:8000/play/beinshd12
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nflnow.png",NFL NOW HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/versus.png",VERSUS HD
