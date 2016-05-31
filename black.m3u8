@@ -1,84 +1,4 @@
 #EXTM3U 
-#EXTINF:-1,Vh1
-http://92.38.128.169:5050/udp/239.77.0.2:1234
-
-
-#EXTINF:-1,JimJam
-http://185.50.9.47:4022/udp/232.0.1.65:1234
-#EXTINF:-1,MUSIC BOX
-http://185.50.9.47:4022/udp/232.0.2.1:1234
-#EXTINF:-1,1HD
-http://92.38.172.133:5050/udp/239.77.0.117:1234
-#EXTINF:-1,Dange TV
-http://92.38.172.133:5050/udp/239.77.0.38:1234
-#EXTINF:-1,Europa Plus TV
-http://92.38.172.133:5050/udp/239.77.0.22:1234
-#EXTINF:-1,MTV Dance
-http://92.38.172.133:5050/udp/239.77.0.81:1234
-#EXTINF:-1,Bridge TV
-http://92.38.172.133:5050/udp/239.77.0.121:1234
-#EXTINF:-1,RU TV
-http://92.38.172.133:5050/udp/239.77.0.39:1234
-#EXTINF:-1,Russian Music Box
-http://92.38.172.133:5050/udp/239.77.0.124:1234
-#EXTINF:-1,Music Box
-http://92.38.172.133:5050/udp/239.77.0.125:1234
-
-#EXTINF:-1,Bridge TV
-http://92.38.172.133:5050/udp/224.0.42.7:5000
-#EXTINF:-1,A-One
-http://92.38.172.133:5050/udp/224.0.42.8:5000
-#EXTINF:-1,Russian Music Box
-http://92.38.172.133:5050/udp/224.0.42.73:5000
-#EXTINF:-1,Юмор
-http://92.38.172.133:5050/udp/224.0.42.74:5000
-#EXTINF:-1,TOP SONG TV
-http://92.38.172.133:5050/udp/224.0.42.111:5000
-#EXTINF:-1,ToP SoNG
-http://185.50.9.47:4022/udp/232.0.1.27:1234
-
-
-#EXTINF:-1,Юмор
-http://92.38.172.133:5050/udp/239.77.0.20:1234
-#EXTINF:-1,Eurosport
-http://128.72.217.43:34040/udp/233.33.221.55:5050
-#EXTINF:-1,RU TV. ®™sbk™®
-http://128.72.217.43:34040/udp/233.33.221.127:5050
-#EXTINF:-1,Music Box RU
-http://5.129.37.47:81/udp/239.1.8.5:1234
-#EXTINF:-1,Music Box TV
-http://5.129.37.47:81/udp/239.1.8.6:1234
-#EXTINF:-1,VH1 Classic
-http://5.129.37.47:81/udp/239.1.8.7:1234
-#EXTINF:-1,Europa Plus TV
-http://5.129.37.47:81/udp/239.1.8.10:1234
-#EXTINF:-1,RUSONG TV
-http://5.129.37.47:81/udp/239.1.8.14:1234
-#EXTINF:-1,iConcerts
-http://212.164.131.100:1234/udp/225.54.41.49:5000
-#EXTINF:-1,Eurosport
-http://212.164.131.100:1234/udp/225.54.23.130:5000
-#EXTINF:-1,Eurosport 2
-http://212.164.131.100:1234/udp/225.54.23.131:5000
-#EXTINF:-1,Extreme Sports
-http://212.164.131.100:1234/udp/225.54.23.139:5000
-#EXTINF:-1,DTX
-http://212.164.79.84:1234/udp/225.54.23.74:5000
-#EXTINF:-1,MTV
-http://212.164.79.84:1234/udp/225.54.23.112:5000
-#EXTINF:-1,Russian Music Box
-http://212.164.79.84:1234/udp/225.54.23.115:5000
-#EXTINF:-1,Music Box TV
-http://212.164.79.84:1234/udp/225.54.23.116:5000
-#EXTINF:-1,MTV Dance
-http://212.164.79.84:1234/udp/225.54.23.124:5000
-#EXTINF:-1,MTV Hits
-http://212.164.79.84:1234/udp/225.54.23.125:5000
-#EXTINF:-1,MTV Rocks
-http://212.164.79.84:1234/udp/225.54.23.126:5000
-#EXTINF:-1,VH1 Classic
-http://212.164.79.84:1234/udp/225.54.23.127:5000
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png",LA RED
 http://d21x6rlkgtztws.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ucv.png",UCV 
@@ -112,6 +32,8 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/15
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneychannel.png",DISNEY CHANNEL
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/26
+#EXTINF:-1,JimJam
+http://185.50.9.47:4022/udp/232.0.1.65:1234
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo.png",HBO
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/27
@@ -190,6 +112,8 @@ http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/2
 http://199.180.114.174:88/files/foxsports3312.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ufcnetwork.png",UFC Network
 http://199.180.114.174:88/files/ufc972.m3u8
+#EXTINF:-1,Eurosport
+http://128.72.217.43:34040/udp/233.33.221.55:5050
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurosport.png",EUROSPORT FRANCE
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurosport.png",EUROSPORT UK
@@ -221,6 +145,22 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w793
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amazing.png",AMAZING
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1,Vh1
+http://92.38.128.169:5050/udp/239.77.0.2:1234
+#EXTINF:-1,MUSIC BOX
+http://185.50.9.47:4022/udp/232.0.2.1:1234
+#EXTINF:-1,Dange TV
+http://92.38.172.133:5050/udp/239.77.0.38:1234
+#EXTINF:-1,Russian Music Box
+http://92.38.172.133:5050/udp/239.77.0.124:1234
+#EXTINF:-1,Music Box
+http://92.38.172.133:5050/udp/239.77.0.125:1234
+#EXTINF:-1,A-One
+http://92.38.172.133:5050/udp/224.0.42.8:5000
+#EXTINF:-1,TOPSONG TV
+http://185.50.9.47:4022/udp/232.0.1.27:1234
+#EXTINF:-1,RU TV. ®™sbk™®
+http://128.72.217.43:34040/udp/233.33.221.127:5050
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/montecarlo.png", RADIO MONTE CARLO
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/deluxemusic.png",DELUXE MUSIC LIVE
