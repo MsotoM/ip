@@ -1,25 +1,25 @@
 #EXTM3U 
-#EXTINF:-1,Bein Sport HD1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD1
 http://195.154.207.145:8000/play/beins1hd
-#EXTINF:-1,Bein Sport HD3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD3
 http://195.154.207.145:8000/play/beinshd3
-#EXTINF:-1,Bein Sport HD4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD4
 http://195.154.207.145:8000/play/beinshd4
-#EXTINF:-1,Bein Sport HD5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD5
 http://195.154.207.145:8000/play/beinshd5
-#EXTINF:-1,Bein Sport HD6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD6
 http://195.154.207.145:8000/play/beinshd6
-#EXTINF:-1,Bein Sport HD7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD7
 http://195.154.207.145:8000/play/beinshd7
-#EXTINF:-1,Bein Sport HD8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD8
 http://195.154.207.145:8000/play/beinshd8
-#EXTINF:-1,Bein Sport HD9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD9
 http://195.154.207.145:8000/play/beinshd9
-#EXTINF:-1,Bein Sport HD10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD10
 http://195.154.207.145:8000/play/beinshd10
-#EXTINF:-1,Bein Sport HD11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD11
 http://195.154.207.145:8000/play/beinshd11
-#EXTINF:-1,Bein Sport HD 12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",Bein Sport HD 12
 http://195.154.207.145:8000/play/beinshd12
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png",LA RED
