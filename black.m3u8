@@ -13,6 +13,8 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/13cable.png",C13 CABLE
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tvchile.png",TV CHILE
+http://edge-71-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cdo.png",CDO HD
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
@@ -20,9 +22,13 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/gopro.png",GoPRO TV
 http://sacapunta.eltelon.com/channels/goprotv/mid.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/failarmy.png", FAILARMY TV
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/niutv.png",NIU TV SANTIAGO
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/radiocarolina.png",RADIO CAROLINA FREAKY CHANNEL
+http://unlimited2-cl.dps.live/freakytv/freakytv.smil/freakytv2-hls/livestream1/chunks.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/smo.png",SMO TV
 http://199.217.118.90:1935/smotv/stream/playlist.m3u8
 
@@ -32,6 +38,8 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/15
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneychannel.png",DISNEY CHANNEL
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/26
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tateti.png", TATETI
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
 #EXTINF:-1,JimJam
 http://185.50.9.47:4022/udp/232.0.1.65:1234
 
@@ -104,15 +112,19 @@ http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/24
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/comedycentral.png",COMEDY CENTRAL
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports.png",FOX SPORTS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports.png",FOX SPORTS (LAT)
 http://stream.ssh101.com:1935/live/foxlive3/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports.png",FOX SPORTS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports.png",FOX SPORTS (MEX)
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports.png",FOX SPORTS (CL)
+http://162.212.176.83:8080/sulavision.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports3.png",FOX SPORTS 3
 http://199.180.114.174:88/files/foxsports3312.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ufcnetwork.png",UFC Network
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ufcnetwork.png",UFC NETWORK
 http://199.180.114.174:88/files/ufc972.m3u8
-#EXTINF:-1,Eurosport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/360deportes.png",360 DEPORTES
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1,EUROSPORT
 http://128.72.217.43:34040/udp/233.33.221.55:5050
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurosport.png",EUROSPORT FRANCE
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
@@ -130,6 +142,8 @@ http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dxtv.png",DXTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sportstv.png",SPORTSTV (TK)
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12mon.png",PAC12 MOUNTAIN
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pac12net.png",PAC12 NETWORK
@@ -159,6 +173,8 @@ http://92.38.172.133:5050/udp/239.77.0.125:1234
 http://92.38.172.133:5050/udp/224.0.42.8:5000
 #EXTINF:-1,TOPSONG TV
 http://185.50.9.47:4022/udp/232.0.1.27:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1musicchannel.png",1MUSIC CHANNEL
+http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/rutv.png",RU TV
 http://128.72.217.43:34040/udp/233.33.221.127:5050
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/montecarlo.png",RADIO MONTE CARLO
@@ -175,6 +191,9 @@ http://tv.105.net:1935/live/virgin1/chunklist_w1380549448.m3u8
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/realjamaican.png",REAL JAMAICAN TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/canal7slp.png",CANAL7 SLP
+http://187.188.159.113:1935/live/web.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ten10.png",TEN10 HD
 http://publish.stroom.us:1935/cus_8WuTeEYHCcDuvU/smil:8WuTeEYHCcDuvU.smil/playlist.m3u8
