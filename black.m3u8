@@ -1,17 +1,24 @@
 #EXTM3U 
 #EXTINF:-1,Bein Sport HD1
 http://195.154.207.145:8000/play/beins1hd
+#EXTINF:-1,Fr-Beinsport1HD
+http://195.154.207.145:8000/play/frbeins1
 #EXTINF:-1,Fr-Beinsport2HD
 http://195.154.207.145:8000/play/frbeins2
 #EXTINF:-1,FR: Bein Sport 3 HD
 http://195.154.207.145:8000/play/frbeins3hd
 #EXTINF:-1,Bein Sport HD6
 http://195.154.207.145:8000/play/beinshd6
+#EXTINF:-1,Bein Sport HD7
+http://195.154.207.145:8000/play/beinshd7
 #EXTINF:-1,Bein Sport HD8
 http://195.154.207.145:8000/play/beinshd8
+#EXTINF:-1,Bein Sport HD9
+http://195.154.207.145:8000/play/beinshd9
 #EXTINF:-1,Bein Sport HD 12
 http://195.154.207.145:8000/play/beinshd12
-
+#EXTINF:-1,XXX- Jasmin TV
+http://195.154.207.145:8000/play/xxxjasmintv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png",LA RED
 http://d21x6rlkgtztws.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8
