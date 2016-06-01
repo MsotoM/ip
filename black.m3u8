@@ -188,7 +188,7 @@ http://mtvam.ru/hlsam/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/m2o.png", M2O 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/xite.png",XITE MUSIC LIVE
-http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w793430769.m3u8
+http://highvolume02.streampartner.nl:1935/vleugels2/livestream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/heart.png",HEART TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amazing.png",AMAZING
