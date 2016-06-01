@@ -1,4 +1,17 @@
 #EXTM3U 
+#EXTINF:-1,Heavy Metal TV
+http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:-1,Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1,Film on TV
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+#EXTINF:-1,Life Desing 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:-1,Trendy Channel 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1,VMas+ TV 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
 #EXTINF:-1,Europa Plus TV
 http://37.9.158.29:4022/udp/232.1.4.2:1235
 #EXTINF:-1,Ani
