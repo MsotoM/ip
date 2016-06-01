@@ -229,6 +229,8 @@ http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/canal7slp.png",CANAL7 SLP
 http://187.188.159.113:1935/live/web.sdp/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/rtve.png",RTVE
+http://hlslive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ten10.png",TEN10 HD
 http://publish.stroom.us:1935/cus_8WuTeEYHCcDuvU/smil:8WuTeEYHCcDuvU.smil/playlist.m3u8
 
