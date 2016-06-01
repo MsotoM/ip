@@ -170,6 +170,8 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/redbulltv.png",REDBULL TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/m4sport.png",M4 Sport
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tyc.png",TYC DEPORTES
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dxtv.png",DXTV
