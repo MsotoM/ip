@@ -195,18 +195,12 @@ http://highvolume02.streampartner.nl:1935/vleugels2/livestream/chunklist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amazing.png",AMAZING
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1,Vh1
-http://92.38.128.169:5050/udp/239.77.0.2:1234
+#EXTINF:-1,Music Box
+http://128.72.217.43:34040/udp/233.33.210.196:5050
+#EXTINF:-1,Russian Music Box
+http://128.72.217.43:34040/udp/233.33.210.197:5050
 #EXTINF:-1,MUSIC BOX
 http://185.50.9.47:4022/udp/232.0.2.1:1234
-#EXTINF:-1,Dange TV
-http://92.38.172.133:5050/udp/239.77.0.38:1234
-#EXTINF:-1,Russian Music Box
-http://92.38.172.133:5050/udp/239.77.0.124:1234
-#EXTINF:-1,Music Box
-http://92.38.172.133:5050/udp/239.77.0.125:1234
-#EXTINF:-1,A-One
-http://92.38.172.133:5050/udp/224.0.42.8:5000
 #EXTINF:-1,TOPSONG TV
 http://185.50.9.47:4022/udp/232.0.1.27:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1musicchannel.png",1MUSIC CHANNEL
