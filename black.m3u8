@@ -6,15 +6,15 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 #EXTINF:-1,Trendy Channel 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1,Sky Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/skysports1.png",Sky Sports 1 HD
 http://149.202.207.8:8080/sk1-2050/sallu/index.m3u8
-#EXTINF:-1,Sky Sports 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/skysports2.png",Sky Sports 2 HD
 http://149.202.207.8:8080/sk2-2050/sallu/index.m3u8
-#EXTINF:-1,Sky Sports 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/skysports3.png",Sky Sports 3 HD
 http://149.202.207.8:8080/sk3-2050/sallu/index.m3u8
-#EXTINF:-1,Sky Sports 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/skysports4.png",Sky Sports 4 HD
 http://149.202.207.8:8080/sk4-2050/sallu/index.m3u8
-#EXTINF:-1,Sky Sports 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/skysports5.png",Sky Sports 5 HD
 http://149.202.207.8:8080/sk5-2050/sallu/index.m3u8
 
 #EXTINF:-1,Europa Plus TV
