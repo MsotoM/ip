@@ -45,8 +45,8 @@ http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/niutv.png",NIU TV SANTIAGO
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/radiocarolina.png",RADIO CAROLINA FREAKY CHANNEL
-http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream1/chunks.m3u8?nimblesessionid=63152410
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/carolinatv.png",RADIO CAROLINA TV CHANNEL
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream1/chunks.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/smo.png",SMO TV
 http://199.217.118.90:1935/smotv/stream/playlist.m3u8
 
