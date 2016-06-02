@@ -2,25 +2,13 @@
 #EXTINF:-1,Heavy Metal TV
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1,Ibiza
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1,Film on TV
-http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 #EXTINF:-1,Life Desing 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 #EXTINF:-1,Trendy Channel 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1,VMas+ TV 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
 #EXTINF:-1,Europa Plus TV
 http://37.9.158.29:4022/udp/232.1.4.2:1235
-#EXTINF:-1,Ani
-http://109.226.65.2:4022/udp/232.0.1.65:1234
-#EXTINF:-1,A-one
-http://109.226.65.2:4022/udp/232.0.2.21:1234
-#EXTINF:-1,MY3
-http://109.226.65.2:4022/udp/232.0.2.37:1234
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png",LA RED
 http://d21x6rlkgtztws.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8
@@ -153,28 +141,16 @@ http://128.72.217.43:34040/udp/233.33.221.55:5050
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurosport.png",EUROSPORT UK
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD1
-http://195.154.207.145:8000/play/beins1hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD3
-http://195.154.207.145:8000/play/beinshd3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD4
-http://195.154.207.145:8000/play/beinshd4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD5
-http://195.154.207.145:8000/play/beinshd5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD6
-http://195.154.207.145:8000/play/beinshd6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD7
-http://195.154.207.145:8000/play/beinshd7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD8
-http://195.154.207.145:8000/play/beinshd8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD9
-http://195.154.207.145:8000/play/beinshd9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD10
-http://195.154.207.145:8000/play/beinshd10
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD11
-http://195.154.207.145:8000/play/beinshd11
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png",BEIN SPORT HD 12
-http://195.154.207.145:8000/play/beinshd12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/arenasport1.png",ARENA SPORT 1
+http://149.202.85.84:8080/arenaSp1-2050/local/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/arenasport2.png",ARENA SPORT 2
+http://149.202.85.84:8080/arenaSp2-2050/local/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/arenasport3.png",ARENA SPORT 3
+http://149.202.85.84:8080/arenaSp3-2050/local/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/arenasport4.png",ARENA SPORT 4
+http://149.202.85.84:8080/arenaSp4-2050/local/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/arenasport5.png",ARENA SPORT 5
+http://149.202.85.84:8080/arenaSp5-2050/local/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nflnow.png",NFL NOW HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/versus.png",VERSUS HD
