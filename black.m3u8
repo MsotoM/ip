@@ -9,9 +9,10 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 http://37.9.158.29:4022/udp/232.1.4.2:1235
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png",LA RED
-http://d21x6rlkgtztws.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8
+http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/chunklist_b1429163.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ucv.png",UCV 
 http://spd.eltelon.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8?
+http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/chunklist_b1429163.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tvn.png",TVN
 http://edge-21-vtr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/megacl.png",MEGA 
