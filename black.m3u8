@@ -233,7 +233,27 @@ http://hlslive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ten10.png",TEN10 HD
 http://publish.stroom.us:1935/cus_8WuTeEYHCcDuvU/smil:8WuTeEYHCcDuvU.smil/playlist.m3u8
 
+#EXTINF:-1,THE O (18+)
+http://123.108.164.70/etv2sb/phd10771/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mediathek.png",MEDIATHEK HIGHLIGHTS LIVE TV
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/latin.png",LATIN LIVE SEX
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,BSX (18+)
+http://46.105.116.159:1935/cellcast/encoder5/playlist.m3u8
+#EXTINF:-1,Babestation (18+)
+http://46.105.116.159:1935/cellcast/encoder22/playlist.m3u8
+#EXTINF:-1,Babestation 2 (18+)
+http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/playlist.m3u8
+#EXTINF:-1,Babestation Xtra (18+)
+http://46.105.116.159:1935/cellcast/encoder72/playlist.m3u8
+#EXTINF:-1,Candy (18+)
+http://cdn-01.bonus-tv.ru/TVB7/candy/track_0_3000/playlist.m3u8
+#EXTINF:-1,Girls (18+)
+http://123.108.164.70/etv2sb/phd10501/playlist.m3u8
+#EXTINF:-1,Jasmin TV HD (18+)
+http://j.mp/S_JasminTVHD_sly?.m3u8
+#EXTINF:-1,Live Sex Latinas (18+)
+http://publish.thewebstream.co:1935/leved/_definst_/livesexlatinas/playlist.m3u8
+#EXTINF:-1,Play (18+)
+http://123.108.164.70/etv2sb/phd10769/playlist.m3u8
