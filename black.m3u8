@@ -197,6 +197,10 @@ http://stream.smcloud.net/tv/vox/vox_720p/index.m3u8
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/slam.png",Slam! TV
 http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hiphoptv.png",HIPHOPTV
+http://stream.smcloud.net/live/hiphoptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/kronehit.png",Kronehit HD
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8?version=3#no_vod
 #EXTINF:-1,Music Box
 http://128.72.217.43:34040/udp/233.33.210.196:5050
 #EXTINF:-1,Russian Music Box
