@@ -52,7 +52,7 @@ http://185.50.9.47:4022/udp/232.0.1.65:1234
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/27
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo2.png",HBO2
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/1
-#EXTINF:0,HBO-B
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo.png",HBO-B
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/30
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo.png", HBO
 http://199.180.114.174:88/files/hbo11.m3u8
