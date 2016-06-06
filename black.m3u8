@@ -1,6 +1,8 @@
 #EXTM3U 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mutetv.png",MUTE TV
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mutetv.png",MUTE TV
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png",LA RED
 http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/chunklist_b1429163.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ucv.png",UCV 
@@ -172,8 +174,16 @@ http://545-tv.com/PREMIUM/NO/KANAL/bXVzaWMtYm94LXVh?.m3u8
 http://545-tv.com/PREMIUM/NO/KANAL/cnVzb25nLXR2Mg==?.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hmetal.png",HEAVY METAL TV
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mtvam.png",MTV AM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mtvam.png",MTV.AM SD
+http://94.125.187.18/hlsam/med/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mtvam.png",MTV AM HD
 http://94.125.187.18/hlsam/hd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mtvru.png",MTV RU
+http://msk3.peers.tv/streaming/mtv_russia/16/tvrecw/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/rumusic.png",Russian Music Box
+http://msk3.peers.tv/streaming/musboxru/16/tvrec/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nebiset.png",Nebiset
+http://msk3.peers.tv/streaming/nebiset/126/tvrec/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/m2o.png", M2O 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/xite.png",XITE MUSIC LIVE
