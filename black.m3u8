@@ -172,7 +172,7 @@ http://545-tv.com/PREMIUM/NO/KANAL/cnVzb25nLXR2Mg==?.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hmetal.png",HEAVY METAL TV
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mtvam.png",MTV AM
-http://mtvam.ru/hlsam/playlist.m3u8
+http://94.125.187.18/hlsam/hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/m2o.png", M2O 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/xite.png",XITE MUSIC LIVE
