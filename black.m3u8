@@ -189,8 +189,12 @@ http://87.120.201.2:80/rtplive/bgmusic_live.stream/.m3u8
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/europaplus.png",Europa Plus TV
 http://cdn.magictvbox.eu/europ.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/europaplus.png",Europa Plus TV HD
+http://cdn.magictvbox.eu:8080/europ/720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/goldtv.png",Gold TV SD
 http://cdn.magictvbox.eu/goldtv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/goldtv.png",Gold TV HD
+http://cdn.magictvbox.eu:8080/goldtv/720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mold.png",MUSIC VOX TV Olds cool
 http://stream.smcloud.net/tv/vox/vox_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nrj.png",NRJ HITS
@@ -203,12 +207,16 @@ http://stream.smcloud.net/live/hiphoptv/playlist.m3u8
 http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8?version=3#no_vod
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mimusica.png",MIMUSICA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1,Music Box
-http://128.72.217.43:34040/udp/233.33.210.196:5050
-#EXTINF:-1,MUSIC BOX
-http://185.50.9.47:4022/udp/232.0.2.1:1234
-#EXTINF:-1,TOPSONG TV
-http://185.50.9.47:4022/udp/232.0.1.27:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vevo.png",VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vevo.png",VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vevo.png",VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vevo.png",VEVO EU HD
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vevo.png",VEVO TV DE
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/appleman.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1musicchannel.png",1MUSIC CHANNEL
 http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/rutv.png",RU TV
