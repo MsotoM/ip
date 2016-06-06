@@ -1,26 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/thtmusic.png",THT MUSIC
-http://545-tv.com/PREMIUM/NO/KANAL/dG50LW11c2ljLXJlemVydjI=?.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bgmusic.png",BG MUSIC CHANNEL
-http://87.120.201.2:80/rtplive/bgmusic_live.stream/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bpm.png",BPM
-mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/europaplus.png",Europa Plus TV
-http://cdn.magictvbox.eu/europ.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/goldtv.png",Gold TV SD
-http://cdn.magictvbox.eu/goldtv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mold.png",MUSIC VOX TV Olds cool
-http://stream.smcloud.net/tv/vox/vox_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nrj.png",NRJ HITS
-http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/slam.png",Slam! TV
-http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/psport.png",PREMIER SPORT (UK)
-http://icntv.xyz/en_ts/premier-sports.m3u8?
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/trendy.png",Trendy Channel 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1,Europa Plus TV (UDP)
-http://37.9.158.29:4022/udp/232.1.4.2:1235
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png",LA RED
 http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/chunklist_b1429163.m3u8?
@@ -203,6 +181,22 @@ http://highvolume02.streampartner.nl:1935/vleugels2/livestream/chunklist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amazing.png",AMAZING
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/thtmusic.png",THT MUSIC
+http://545-tv.com/PREMIUM/NO/KANAL/dG50LW11c2ljLXJlemVydjI=?.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bgmusic.png",BG MUSIC CHANNEL
+http://87.120.201.2:80/rtplive/bgmusic_live.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bpm.png",BPM
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/europaplus.png",Europa Plus TV
+http://cdn.magictvbox.eu/europ.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/goldtv.png",Gold TV SD
+http://cdn.magictvbox.eu/goldtv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mold.png",MUSIC VOX TV Olds cool
+http://stream.smcloud.net/tv/vox/vox_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nrj.png",NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/slam.png",Slam! TV
+http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
 #EXTINF:-1,Music Box
 http://128.72.217.43:34040/udp/233.33.210.196:5050
 #EXTINF:-1,Russian Music Box
@@ -232,7 +226,8 @@ http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/canal7slp.png",CANAL7 SLP
 http://187.188.159.113:1935/live/web.sdp/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/trendy.png",Trendy Channel 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/rtve.png",RTVE
 http://hlslive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ten10.png",TEN10 HD
