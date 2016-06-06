@@ -5,11 +5,17 @@ http://545-tv.com/PREMIUM/NO/KANAL/dG50LW11c2ljLXJlemVydjI=?.m3u8
 http://87.120.201.2:80/rtplive/bgmusic_live.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bpm.png",BPM
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/europaplus.png",Europa Plus TV
+http://cdn.magictvbox.eu/europ.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/goldtv.png",Gold TV SD
+http://cdn.magictvbox.eu/goldtv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/goldtv.png",Gold TV HD
+rtmp://goldtv.md:8080/live/goldtv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/psport.png",PREMIER SPORT (UK)
 http://icntv.xyz/en_ts/premier-sports.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/trendy.png",Trendy Channel 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1,Europa Plus TV
+#EXTINF:-1,Europa Plus TV (UDP)
 http://37.9.158.29:4022/udp/232.1.4.2:1235
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png",LA RED
