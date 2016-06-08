@@ -1,0 +1,392 @@
+#EXTM3U m3uautoload=1 cache=1000 deinterlace=1 tvg-shift=0
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mutetv.png",MUTE TV
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png",LA RED
+http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/chunklist_b1429163.m3u8?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ucv.png",UCV 
+http://spd.eltelon.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8?
+http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/chunklist_b1429163.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tvn.png",TVN
+http://edge-21-vtr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/megacl.png",MEGA 
+http://edge-91-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b600.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/chv.png",CHV 
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/13cl.png",13HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/13cable.png",C13 CABLE
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tvchile.png",TV CHILE
+http://edge-71-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cdo.png",CDO HD
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cinematvplay.png",CINEMA TVPLAY
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/gopro.png",GoPRO TV
+http://sacapunta.eltelon.com/channels/goprotv/mid.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/failarmy.png", FAILARMY TV
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/niutv.png",NIU TV SANTIAGO
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/carolinatv.png",RADIO CAROLINA TV CHANNEL
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream1/chunks.m3u8?
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/smo.png",SMO TV
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/anime.png",CANAL ANIME
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneychannel.png",DISNEY CHANNEL
+http://189.203.69.254:80/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneyxs.png",DISNEY XD
+http://189.203.69.254:80/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dkids.png",DISCOVERY KIDS
+http://189.203.69.254:80/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nick.png",NICK
+http://189.203.69.254:80/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nickjr.png",NICK JR
+http://189.203.69.254:80/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nick.png",NICK HD
+http://189.203.69.254:80/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nicktoons.png",NICKTOONS
+http://189.203.69.254:80/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cnet.png",CARTOON NETWORK
+http://189.203.69.254:80/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/boomerang.png",BOOMERANG
+http://189.203.69.254:80/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tooncast.png",TOONCAST
+http://189.203.69.254:80/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tiin.png",TIIN
+http://189.203.69.254:80/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cbeebies.png",CBEEBIES
+http://209.126.106.202:8080/cbee/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cbeebies.png",CBEEBIES
+http://189.203.69.254:80/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tateti.png",TATETI
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pakapaka.png",PAKAPAKA
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",DIRECTV
+http://latino-webtv.ml/live/directv.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",ESPN
+http://189.203.69.254:80/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",ESPN 2
+http://189.203.69.254:80/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",ESPN 3
+http://189.203.69.254:80/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",ESPN +
+http://189.203.69.254:80/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports.png",FOX SPORTS
+http://189.203.69.254:80/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports.png",FOX SPORTS (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports2.png",FOX SPORTS 2
+http://189.203.69.254:80/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports3.png",FOX SPORTS 3
+http://199.180.114.174:88/files/foxsports3312.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",PX
+http://189.203.69.254:80/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ufcnetwork.png",UFC
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/29
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ufcnetwork.png",UFC NETWORK
+http://199.180.114.174:88/files/ufc972.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/360deportes.png",360 DEPORTES
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurosport.png",EUROSPORT FRANCE
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eurosport.png",EUROSPORT UK
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nflnow.png",NFL NOW HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/versus.png",VERSUS HD
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fsport.png",FIGHT SPORT
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/redbulltv.png",REDBULL TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/m4sport.png",M4 Sport
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tyc.png",TYC DEPORTES
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dxtv.png",DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w85747523_b800000_slesp.m3u8?
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo.png",HBO (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/27
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo2.png",HBO2 (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo.png",HBO-B (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/30
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo.png", HBO
+http://199.180.114.174:88/files/hbo11.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbo2.png",HBO2
+http://199.180.114.174:88/files/hbo235.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hbofamily.png",HBO FAMILY
+http://199.180.114.174:88/files/hbofamily453.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fox.png",FOX
+http://189.203.69.254:80/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fox.png",FOX
+http://189.203.69.254:80/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fox.png",FOX (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fox1.png",FOX 1 (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/10
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fox1.png",FOX 1
+http://189.203.69.254:80/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",FOX ACTION
+http://189.203.69.254:80/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",FOX MOVIES
+http://189.203.69.254:80/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",FOX CINEMA
+http://189.203.69.254:80/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",FOX CLASSIC
+http://189.203.69.254:80/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",FOXCINEMA
+http://189.203.69.254:80/LIVE/H01/CANAL472/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",FOXCLASSIC
+http://189.203.69.254:80/LIVE/H01/CANAL478/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fx.png",FX (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/4
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fx.png",FX
+http://189.203.69.254:80/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/fx.png",FX
+http://189.203.69.254:80/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cinecanal.png",CINECANAL (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/14
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cinecanal.png",CINECANAL
+http://189.203.69.254:80/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cinecanal.png",CINECANAL
+http://189.203.69.254:80/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cinemax.png",CINEMAX (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/22
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cinemax.png",CINEMAX
+http://189.203.69.254:80/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/axn.png",AXN (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/5
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/axn.png",AXN
+http://189.203.69.254:80/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sony.png",SONY (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/7
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sony.png",SONY
+http://189.203.69.254:80/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/warner.png",WARNER (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/6
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/warner.png",WB
+http://189.203.69.254:80/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",UNIVERSAL
+http://189.203.69.254:80/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",AZCINEMA
+http://189.203.69.254:80/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tnt.png",TNT (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/11
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tnt.png",TNT
+http://189.203.69.254:80/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tnt.png",TNT
+http://189.203.69.254:80/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tntseries.png",TNT SERIES (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tntseries.png",TNT SERIES
+http://189.203.69.254:80/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",GOLDEN
+http://189.203.69.254:80/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",FILMZONE
+http://189.203.69.254:80/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",DEPELICULA
+http://189.203.69.254:80/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amc.png",AMC (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/13
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amc.png",AMC
+http://189.203.69.254:80/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amc.png",AMC
+http://189.203.69.254:80/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/space.png",SPACE
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/12
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/space.png",SPACE
+http://189.203.69.254:80/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/space.png",SPACE
+http://189.203.69.254:80/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/edge.png",EDGE
+http://189.203.69.254:80/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",STUDIOUNIVERSAL
+http://189.203.69.254:80/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/universalchannel.png",UNIVERSAL (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/9
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/universalchannel.png",UNIVERSAL
+http://189.203.69.254:80/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/syfy.png",SYFY (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/16
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/syfy.png",SYFY
+http://189.203.69.254:80/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/isat.png",I-SAT (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/25
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/isat.png",I.SAT
+http://189.203.69.254:80/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",TCM
+http://189.203.69.254:80/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",FOXLIFE
+http://189.203.69.254:80/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/laotra.png",LAOTRA
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nova.png",NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mega.png",MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/neox.png",NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/a3s.png",A3S ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",TELEHIT
+http://189.203.69.254:80/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",VHR
+http://189.203.69.254:80/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",MTV LIVE
+http://189.203.69.254:80/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",MTV
+http://189.203.69.254:80/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",MTV HITS
+http://189.203.69.254:80/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",1CLASSICS
+http://189.203.69.254:80/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",RITMOSON
+http://189.203.69.254:80/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",BANDAMAX
+http://189.203.69.254:80/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tigomusic.png",TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1hd.png",1HD MUSIC CHANNEL
+http://545-tv.com/PREMIUM/wDnh0ZzX4LgNJ5A1/KANAL/MWhkLW11c2ljLWNoYW5uZWwtcmV6ZXJ2?.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dotdance.png",DOT DANCE
+http://545-tv.com/PREMIUM/NO/KANAL/ZG90LWRhbmNlLWhkMg==?.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/musicboxge.png",MUSIC BOX GE
+http://545-tv.com/PREMIUM/NO/KANAL/bXVzaWMtYm94LWdlbw==?.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/musicboxua.png",MUSIC BOX UA
+http://545-tv.com/PREMIUM/NO/KANAL/bXVzaWMtYm94LXVh?.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nebiset.png",Nebiset
+http://msk3.peers.tv/streaming/nebiset/126/tvrec/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/m2o.png", M2O 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/xite.png",XITE MUSIC LIVE
+http://highvolume02.streampartner.nl:1935/vleugels2/livestream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/heart.png",HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amazing.png",AMAZING
+http://545-tv.com/PREMIUM/NO/KANAL/YW1hemluZw==?.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/thtmusic.png",THT MUSIC
+http://545-tv.com/PREMIUM/NO/KANAL/dG50LW11c2ljLXJlemVydjI=?.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bgmusic.png",BG MUSIC CHANNEL
+http://87.120.201.2:80/rtplive/bgmusic_live.stream/.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/comedycentral.png",COMEDY CENTRAL
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/history.png",HISTORY CHANNEL (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/18
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/history.png",HISTORY CHANNEL
+http://189.203.69.254:80/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/history2.png",H2 (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/28
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dchannel.png",DISCOVERY CHANNEL (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/19
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dchannel.png",DISCOVERY CHANNEL
+http://189.203.69.254:80/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",DISCOVERY THEATER
+http://189.203.69.254:80/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/natgeo.png",NATGEO (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/20
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/natgeo.png",NATGEO
+http://189.203.69.254:80/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",NATGEO WILD
+http://189.203.69.254:80/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",DISCOVERY WORLD
+http://189.203.69.254:80/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",ANIMAL PLANET
+http://189.203.69.254:80/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",H&H
+http://189.203.69.254:80/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",LIFETIME
+http://189.203.69.254:80/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",DISCOVERY SCIENCE
+http://189.203.69.254:80/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",DISCOVERY CIVILIZATION
+http://189.203.69.254:80/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",DISCOVERY TURBO
+http://189.203.69.254:80/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/a%26e.png",A&E (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/17
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/a%26e.png",A&E
+http://189.203.69.254:80/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/investigation.png",INVESTIGACION DISCOVERY (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/23
+ tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/investigation.png",INVESTIGACION DISCOVERY
+http://189.203.69.254:80/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",TLC
+http://189.203.69.254:80/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/trutv.png",TRUTV (PTV)
+http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/24
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/truetv.png",TRUTV
+http://189.203.69.254:80/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",BBC ENTRETAINMENT
+http://189.203.69.254:80/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",EL GOURMET
+http://189.203.69.254:80/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",GARAGE TV
+http://189.203.69.254:80/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",GLITZ
+http://189.203.69.254:80/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",DISTRITO COMEDIA
+http://189.203.69.254:80/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",TBS
+http://189.203.69.254:80/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",E!
+http://189.203.69.254:80/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",UNICABLE
+http://189.203.69.254:80/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",HOLATV
+http://189.203.69.254:80/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",FASHIONTV
+http://189.203.69.254:80/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",AZCORAZON
+http://189.203.69.254:80/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",TLNOVELAS
+http://189.203.69.254:80/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",TVE
+http://189.203.69.254:80/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",CANAL DE LAS ESTRELLAS
+http://189.203.69.254:80/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",CANAL 5
+http://189.203.69.254:80/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",AZTECA 7
+http://189.203.69.254:80/LIVE/H01/CANAL107/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",GALAVISION
+http://189.203.69.254:80/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",ONCE TV
+http://189.203.69.254:80/LIVE/H01/CANAL111/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",AZTECA 13
+http://189.203.69.254:80/LIVE/H01/CANAL113/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",CANAL 40
+http://189.203.69.254:80/LIVE/H01/CANAL140/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",MULTIMEDIOS TV
+http://189.203.69.254:80/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",AZCLIC
+http://189.203.69.254:80/LIVE/H01/CANAL725/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",FORO TV
+http://189.203.69.254:80/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",MILENIO
+http://189.203.69.254:80/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",WOBI
+http://189.203.69.254:80/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png",EL FINANCIERO BLOOMERANG
+http://189.203.69.254:80/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332/1499-20150816T153535.ts=-1
