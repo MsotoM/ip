@@ -172,8 +172,6 @@ http://189.203.69.254:80/LIVE/H01/CANAL203/PROFILE02.m3u8?-1332/1499-20150816T15
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/6
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/warner.png" group-title="CINE Y SERIES",WB
 http://189.203.69.254:80/LIVE/H01/CANAL205/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="CINE Y SERIES",UNIVERSAL
-http://189.203.69.254:80/LIVE/H01/CANAL207/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="CINE Y SERIES",AZCINEMA
 http://189.203.69.254:80/LIVE/H01/CANAL425/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tnt.png" group-title="CINE Y SERIES",TNT (PTV)
@@ -212,6 +210,8 @@ http://189.203.69.254:80/LIVE/H01/CANAL492/PROFILE02.m3u8?-1332/1499-20150816T15
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/9
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/universalchannel.png" group-title="CINE Y SERIES",UNIVERSAL
 http://189.203.69.254:80/LIVE/H01/CANAL256/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/universalchannel.png" group-title="CINE Y SERIES",UNIVERSAL
+http://189.203.69.254:80/LIVE/H01/CANAL207/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/syfy.png" group-title="CINE Y SERIES",SYFY (PTV)
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/16
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/syfy.png" group-title="CINE Y SERIES",SYFY
