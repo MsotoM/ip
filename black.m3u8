@@ -3,8 +3,8 @@
 http://189.203.69.254:80/LIVE/H01/CANAL2/PROFILE02.m3u8?-1332%2F1499-20160527T204642.ts
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mutetv.png",220
 http://189.203.69.254:80/LIVE/H01/CANAL220/PROFILE02.m3u8?-1332%2F1499-20160527T204642.ts
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mutetv.png",220m3u
-http://189.203.69.254:80/LIVE/H01/CANAL220/PROFILE02.m3u8?
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mutetv.png",256
+http://189.203.69.254:80/LIVE/H01/CANAL256/PROFILE02.m3u8?-1332%2F1499-20160527T204642.ts
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mutetv.png",MUTE TV
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 
