@@ -293,6 +293,14 @@ http://stream.smcloud.net/tv/wawa/wawa_480p/playlist.m3u8
 http://stream.smcloud.net/live/hiphoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",POLO PARTY TV
 http://stream.smcloud.net/tv/polo_party/polo_party_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",MUSICA:OUI FM TV
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",XITE.TV
+http://www.iptvsaga.com/play/tv3/0008.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",FORMUSIC
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",KRAL
+http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/comedycentral.png" group-title="DOCUMENTALES",COMEDY CENTRAL
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/8
@@ -420,52 +428,13 @@ http://189.203.69.254:80/LIVE/H01/CANAL387/PROFILE02.m3u8?-1332/1499-20150816T15
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bloomerang.png" group-title="VARIADOS",EL FINANCIERO BLOOMERANG
 http://189.203.69.254:80/LIVE/H01/CANAL610/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",MUSICA:OUI FM TV
-http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",MUSICA:NRJ TV
-http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",gotv Music
-http://www.iptvsaga.com/play/tv3/0009.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",XITE.TV
-http://www.iptvsaga.com/play/tv3/0008.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",VOX Music HD
-http://www.iptvsaga.com/play/tv3/0091.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",Pop HD
-http://www.iptvsaga.com/play/tv3/0075.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",Dance HD
-http://www.iptvsaga.com/play/tv3/0076.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",MUSICA:FOR NUSIC
-http://wowza1.top-ix.org/quartaretetv1/formusicweb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",MUSICA:A1 ESPAÑA
-http://176.9.45.202:22222/live/alfaesp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",MUSICA:A1 INTERNACIONAL
-http://176.9.45.202:22222/live/a1internacionalitd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TURK:kral.m3u8
-http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",W9
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",Мusic1 Ukrayna 08.01.2016
-http://play.lanet.tv/live/9013.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/mbc/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/rotana_cinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/al_kahera_wal_nas/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/cairo_drama/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/time_drama/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/sada_el_balad_drama/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/cbc_drama/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/dream2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/dream1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/al-nahar_drama/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="TEST",TEST
-http://216.105.40.244/live/rotana_clip/index.m3u8
+
+#EXTINF:0,KISS TV
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
+#EXTINF:0,4MUSIC
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+
+
+
+
