@@ -429,3 +429,10 @@ http://189.203.69.254:80/LIVE/H01/CANAL603/PROFILE02.m3u8?-1332/1499-20150816T15
 http://189.203.69.254:80/LIVE/H01/CANAL387/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bloomerang.png" group-title="VARIADOS",EL FINANCIERO BLOOMERANG
 http://189.203.69.254:80/LIVE/H01/CANAL610/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/bobi.png" group-title="Kids" tvg-logo="bobi.png",Bobi
+http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/bobi.png" group-title="Kids" tvg-logo="bobi.png",HIT
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/bobi.png" group-title="Kids" tvg-logo="bobi.png",EUROPA PLUS 
+http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
