@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/prueba.png",PRUEBA SMART
+http://189.203.69.254:80/LIVE/H01/CANAL317/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mutetv.png",2
 http://189.203.69.254:80/LIVE/H01/CANAL2/PROFILE02.m3u8?-1332%2F1499-20160527T204642.ts
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/mutetv.png",220
