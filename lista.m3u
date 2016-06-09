@@ -70,7 +70,7 @@ http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=1
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/directv.png" group-title="DEPORTES",DIRECTV
 http://latino-webtv.ml/live/directv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/rpc.png" group-title="COPA AMERICA",RPC Panama 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/rpc.png" group-title="DEPORTES",RPC Panama 720
 http://d2mteqzm2zbx7w.cloudfront.net/re-medcom-live-rpc.smil/chunklist_w2027652660_b1328000_slesp.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/espn.png" group-title="DEPORTES",ESPN
 http://189.203.69.254:80/LIVE/H01/CANAL558/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
