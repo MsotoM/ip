@@ -255,7 +255,7 @@ http://189.203.69.254:80/LIVE/H01/CANAL728/PROFILE02.m3u8?-1332/1499-20150816T15
 http://189.203.69.254:80/LIVE/H01/CANAL731/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bandamax.png" group-title="MÚSICA",BANDAMAX
 http://189.203.69.254:80/LIVE/H01/CANAL732/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",Cantinazo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",CANTINAZO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tigomusic.png" group-title="MÚSICA",TIGO MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
@@ -299,6 +299,10 @@ http://stream.smcloud.net/tv/polo_party/polo_party_480p/playlist.m3u8
 http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",XITE.TV
 http://www.iptvsaga.com/play/tv3/0008.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png.png"group-title="MÚSICA",HIT
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png.png"group-title="MÚSICA",EUROPA PLUS 
+http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",FORMUSIC
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",KRAL
@@ -430,9 +434,5 @@ http://189.203.69.254:80/LIVE/H01/CANAL387/PROFILE02.m3u8?-1332/1499-20150816T15
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bloomerang.png" group-title="VARIADOS",EL FINANCIERO BLOOMERANG
 http://189.203.69.254:80/LIVE/H01/CANAL610/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
 
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/bobi.png" group-title="Kids" tvg-logo="bobi.png",Bobi
-http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/bobi.png" group-title="Kids" tvg-logo="bobi.png",HIT
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/bobi.png" group-title="Kids" tvg-logo="bobi.png",EUROPA PLUS 
-http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
+
+
