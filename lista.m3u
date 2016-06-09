@@ -427,14 +427,3 @@ http://189.203.69.254:80/LIVE/H01/CANAL603/PROFILE02.m3u8?-1332/1499-20150816T15
 http://189.203.69.254:80/LIVE/H01/CANAL387/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bloomerang.png" group-title="VARIADOS",EL FINANCIERO BLOOMERANG
 http://189.203.69.254:80/LIVE/H01/CANAL610/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
-
-
-
-#EXTINF:0,KISS TV
-http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
-#EXTINF:0,4MUSIC
-http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
-
-
-
-
