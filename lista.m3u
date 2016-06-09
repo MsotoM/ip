@@ -255,6 +255,8 @@ http://189.203.69.254:80/LIVE/H01/CANAL728/PROFILE02.m3u8?-1332/1499-20150816T15
 http://189.203.69.254:80/LIVE/H01/CANAL731/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bandamax.png" group-title="MÚSICA",BANDAMAX
 http://189.203.69.254:80/LIVE/H01/CANAL732/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",Cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tigomusic.png" group-title="MÚSICA",TIGO MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1hd.png" group-title="MÚSICA",1HD MUSIC CHANNEL
@@ -283,6 +285,12 @@ http://87.120.201.2:80/rtplive/bgmusic_live.stream/.m3u8
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eskatv.png" group-title="MÚSICA",ESKA PARTY
 http://stream.smcloud.net/live/eska_party/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",ESKA ROCK
+http://stream.smcloud.net/tv/eska_rock/eska_rock_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",WAWA
+http://stream.smcloud.net/tv/wawa/wawa_480p/playlist.m3u8
+
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/comedycentral.png" group-title="DOCUMENTALES",COMEDY CENTRAL
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/8
@@ -333,8 +341,26 @@ http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/24
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/trutv.png" group-title="DOCUMENTALES",TRUTV
 http://189.203.69.254:80/LIVE/H01/CANAL215/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",Canal Antiestrés
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",Lifedesign
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",Telemedellín
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",Tele Amiga
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bbc.png" group-title="VARIADOS",BBC ENTRETAINMENT
