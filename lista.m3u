@@ -1,5 +1,4 @@
-#EXTM3U m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png" group-title="NACIONALES",LA RED
 http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/chunklist_b1429163.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ucv.png" group-title="NACIONALES",UCV 
@@ -283,25 +282,25 @@ http://545-tv.com/PREMIUM/NO/KANAL/YW1hemluZw==?.m3u8
 http://545-tv.com/PREMIUM/NO/KANAL/dG50LW11c2ljLXJlemVydjI=?.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bgmusic.png" group-title="MÚSICA",BG MUSIC CHANNEL
 http://87.120.201.2:80/rtplive/bgmusic_live.stream/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eskatv.png" group-title="MÚSICA",ESKA BEST MUSIC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eskabest.png" group-title="MÚSICA",ESKA BEST MUSIC
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eskatv.png" group-title="MÚSICA",ESKA PARTY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eskaparty.png" group-title="MÚSICA",ESKA PARTY
 http://stream.smcloud.net/live/eska_party/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",ESKA ROCK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eskarock.png" group-title="MÚSICA",ESKA ROCK
 http://stream.smcloud.net/tv/eska_rock/eska_rock_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",WAWA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/wawa.png" group-title="MÚSICA",WAWA TV
 http://stream.smcloud.net/tv/wawa/wawa_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",HIP HOP TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hiphop.png" group-title="MÚSICA",HIP HOP TV
 http://stream.smcloud.net/live/hiphoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",POLO PARTY TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/poloparty.png" group-title="MÚSICA",POLO PARTY TV
 http://stream.smcloud.net/tv/polo_party/polo_party_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",MUSICA:OUI FM TV
 http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",XITE.TV
 http://www.iptvsaga.com/play/tv3/0008.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png.png"group-title="MÚSICA",HIT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",HIT
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png.png"group-title="MÚSICA",EUROPA PLUS 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",EUROPA PLUS 
 http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",FORMUSIC
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/playlist.m3u8
