@@ -263,6 +263,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 http://545-tv.com/PREMIUM/wDnh0ZzX4LgNJ5A1/KANAL/MWhkLW11c2ljLWNoYW5uZWwtcmV6ZXJ2?.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dotdance.png" group-title="MÚSICA",DOT DANCE
 http://545-tv.com/PREMIUM/NO/KANAL/ZG90LWRhbmNlLWhkMg==?.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dotdance.png" group-title="MÚSICA",DOT DANCE 2
+http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/musicboxge.png" group-title="MÚSICA",MUSIC BOX GE
 http://545-tv.com/PREMIUM/NO/KANAL/bXVzaWMtYm94LWdlbw==?.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/musicboxua.png" group-title="MÚSICA",MUSIC BOX UA
