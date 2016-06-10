@@ -377,6 +377,17 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="COLOMBIA",Tele Amiga
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="ESPANA",TVE 1 (La1)
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="ESPANA",TVE 2 (La2)
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="ESPANA",TVE 24
+http://api.iptv.ink/pl.m3u8?ch=92978413
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="ESPANA",TV Galicia
+http://api.iptv.ink/pl.m3u8?ch=18178909
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="ESPANA",TELESUR
+http://api.iptv.ink/pl.m3u8?ch=79272030
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bbc.png" group-title="VARIADOS",BBC ENTRETAINMENT
 http://189.203.69.254:80/LIVE/H01/CANAL253/PROFILE02.m3u8?-1332/1499-20150816T153535.ts=-1
