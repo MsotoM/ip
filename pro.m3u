@@ -306,6 +306,10 @@ http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",KRAL
 http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",ONEBY
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",HITV
+http://live.rmg.cdnvideo.ru/rmg/rmg1.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/comedycentral.png" group-title="DOCUMENTALES",COMEDY CENTRAL
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/8
