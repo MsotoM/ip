@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" tvg-id="cl.nac.lared" group-title="Nacionales",La Red
+http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/chunklist_b2129163.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" tvg-id="cl.nac.ucv" group-title="Nacionales",UCV
+http://movilstream.digitalproserver.com/ucvtv//ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" tvg-id="cl.nac.tvn" group-title="Nacionales",TVN
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-mega.png" tvg-id="cl.nac.mega" group-title="Nacionales",Mega
+http://edge-51-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" tvg-id="cl.nac.chv" group-title="Nacionales",Chilevisión
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" tvg-id="cl.nac.13uc" group-title="Nacionales",13
+http://grupoz-lh.akamaihd.net/i/grupoz_hls@179254/index_900_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-aricatv.png" tvg-id="cl.reg.aricatv" group-title="Regionales",Arica TV - Vive! Chile
+http://noquierouser.com/tvcl/offline/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-rtciquique.png" tvg-id="cl.reg.rtciquique" group-title="Regionales",RTC Iquique
+http://noquierouser.com/tvcl/offline/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-antofagastatv.png" tvg-id="cl.reg.antofagastatv" group-title="Regionales",Antofagasta TV
+http://movilstream.digitalproserver.com/atv/atvvivo/atv.smil/chunklist-b2200000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-viveantofa.png" tvg-id="cl.reg.viveantofa" group-title="Regionales",Vive! Chile Antofagasta
+http://noquierouser.com/tvcl/offline/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-dchtv.png" tvg-id="cl.reg.dchtv" group-title="Regionales",Digital Channel TV
+http://evo.eltelon.com:1935/live/dch-tv/dch-tv.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-holvoet.png" tvg-id="cl.reg.holvoet" group-title="Regionales",Holvoet TV
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-mastelevision.png" tvg-id="cl.reg.mastelevision" group-title="Regionales",Más Televisión
+http://video.crearchile.com:8080/live/serena.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-ultravision.png" tvg-id="cl.reg.ultravision" group-title="Regionales",Ultravisión
+http://iphone-streaming.ustream.tv/uhls/13961215/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-vtv2.png" tvg-id="cl.reg.vtv2" group-title="Regionales",VTV2 Valle TV
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-quilpuetv.png" tvg-id="cl.reg.quilpuetv" group-title="Regionales",Quilpué TV
+http://mediacp.streamingchilenos.cl:1935/quilpuettv/quilpuettv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-quintavision.png" tvg-id="cl.reg.quintavision" group-title="Regionales",Quintavisión - Vive! Chile
+http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-c2sanantonio.png" tvg-id="cl.reg.c2sanantonio" group-title="Regionales",Canal 2 San Antonio
+http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-girovisual.png" tvg-id="cl.reg.girovisual" group-title="Regionales",Girovisual
+http://movilstream.digitalproserver.com/girovisual/girovisualvivo/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-indeptv.png" tvg-id="cl.reg.indeptv" group-title="Regionales",Independencia TV
+http://evo.eltelon.com:1935/live/independencia-tv/independencia-tv.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-noticiascolchagua.png" tvg-id="cl.reg.noticiascolchagua" group-title="Regionales",Canal de Noticias Colchagua
+http://audio.streaminghd.cl:80/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-cesfamlascabras.png" tvg-id="cl.reg.cesfamlascabras" group-title="Regionales",Vida TV - Cesfam Las Cabras
+http://evo.eltelon.com:1935/live/cesfamtv/cesfamtv.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-sextavision.png" tvg-id="cl.reg.sextavision" group-title="Regionales",Sextavisión - Vive! Chile
+http://scl.streaminghd.cl/sextavision/myStream_720/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tcsantacruz.png" tvg-id="cl.reg.tcsantacruz" group-title="Regionales",Telecanal Santa Cruz
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tvosanvicente.png" tvg-id="cl.reg.tvosanvicente" group-title="Regionales",TVO San Vicente
+http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-campustv.png" tvg-id="cl.reg.campustv" group-title="Regionales",Campus TV - Universidad de Talca
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w2049429420_b1548000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-contitv.png" tvg-id="cl.reg.contitv" group-title="Regionales",ContiTV
+http://v2movil.tustreaming.cl/tustreaming/live2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-contivision.png" tvg-id="cl.reg.contivision" group-title="Regionales",Contivisión
+http://evo.eltelon.com:1935/live/contivision/contivision.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tv5linares.png" tvg-id="cl.reg.tv5linares" group-title="Regionales",TV5 Linares
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-canal9biobio.png" tvg-id="cl.reg.canal9biobio" group-title="Regionales",Canal 9 Bio Bío Televisión
+http://movilstream.digitalproserver.com/c9//c9.smil/chunklist-b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-itatavision.png" tvg-id="cl.reg.itatavision" group-title="Regionales",Itata Visión
+http://evo.eltelon.com:1935/live/itata-vision/itata-vision.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-ncctv.png" tvg-id="cl.reg.ncctv" group-title="Regionales",NCC
+http://evo.eltelon.com:1935/live/ncc-tv/ncc-tv.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-televida.png" tvg-id="cl.reg.televida" group-title="Regionales",Televida
+http://evo.eltelon.com:1935/live/televida/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tvu.png" tvg-id="cl.reg.tvu" group-title="Regionales",TVU
+http://movilstream.digitalproserver.com/tvu/tvuvivo/tvu.smil/chunklist-b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tv4lota.png" tvg-id="cl.reg.tv4lota" group-title="Regionales",TV 4 Televisión Lota
+http://evo.eltelon.com:1935/live/tv4-television/tv4-television.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tv8.png" tvg-id="cl.reg.tv8" group-title="Regionales",TV8 - Vive! Chile
+http://movilstream.digitalproserver.com/tv8/tv8vivo/tv8.smil/chunklist-b548000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-canal33temuco.png" tvg-id="cl.reg.canal33temuco" group-title="Regionales",Canal 33 Temuco
+http://evo.eltelon.com:1935/live/canal-33/canal-33.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-pucontv.png" tvg-id="cl.reg.pucontv" group-title="Regionales",PucónTV
+http://evo.eltelon.com:1935/live/pucon-tv/pucon-tv.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-uautonomatemuco.png" tvg-id="cl.reg.uautonomatemuco" group-title="Regionales",Universidad Autónoma Televisión
+http://wow2.cl.digitalproserver.com/uautonoma/uautonomavivo/uautonoma.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-ufrovision.png" tvg-id="cl.reg.ufrovision" group-title="Regionales",UFRO Visión
+http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tectv.png" tvg-id="cl.reg.tectv" group-title="Regionales",TecTV Temuco
+http://evo.eltelon.com:1935/live/tec-tv/tec-tv.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-canal5lrc.png" tvg-id="cl.reg.canal5lrc" group-title="Regionales",Canal 5 LRC
+http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-inetosorno.png" tvg-id="cl.reg.inetosorno" group-title="Regionales",I-NET TV Digital
+http://movilstream.digitalproserver.com/inetosorno/inetosornovivo/inetosorno.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-verticetv.png" tvg-id="cl.reg.verticetv" group-title="Regionales",Vertice TV
+http://movilstream.digitalproserver.com/verticetv/verticetvvivo/verticetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-aysentv.png" tvg-id="cl.reg.aysentv" group-title="Regionales",Telesur AysénTV
+http://movilstream.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/chunklist-b848000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-roccotv.png" tvg-id="cl.reg.roccotv" group-title="Regionales",Rocco TV
+http://evo.eltelon.com:1935/live/rocco-tv/rocco-tv.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-pinguinotv.png" tvg-id="cl.reg.pinguinotv" group-title="Regionales",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-itv.png" tvg-id="cl.reg.itv" group-title="Regionales",ITV Patagonia
+http://movilstream.digitalproserver.com/itv/itvvivo/itv.smil/chunklist-b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-soberaniatv.png" tvg-id="cl.reg.soberaniatv" group-title="Regionales",Soberanía TV
+http://evo.eltelon.com:1935/live/soberania/soberania.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-umagtv.png" tvg-id="cl.reg.umagtv" group-title="Regionales",UMAG TV
+http://movil.ztreaming.com/tser5/tser5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-umagauditorio.png" tvg-id="cl.reg.umagauditorio" group-title="Regionales",UMAG Auditorio TV
+http://131.161.59.71/itser4/tser4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-comunitarios-pmutv.png" tvg-id="cl.comunitarios.pmutv" group-title="Comunitarios",Canal 3 Pichilemu
+http://vivo.pichilemutv.org/stream
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-13c.png" tvg-id="cl.ext.13c" group-title="Otros",13C
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-agrotv.png" tvg-id="cl.ext.agrotv" group-title="Otros",AgroTV
+http://v2.tustreaming.cl/tustreaming/live4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-bbcltv.png" tvg-id="cl.ext.bbcltv" group-title="Otros",biobiochile.tv
+http://noquierouser.com/tvcl/offline/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-canaldelvino.png" tvg-id="cl.ext.canaldelvino" group-title="Otros",canaldelvino.tv
+http://noquierouser.com/tvcl/offline/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" tvg-id="cl.ext.cdo" group-title="Otros",Canal del Deporte Olímpico
+http://pd-vdp-cdn06-cis.trrsf.com/live/1451899000/8db939ef73a77de8468766c0b28f6bb4b70d0c93/live/2010/trr_221508_2628_.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cnncl.png" tvg-id="cl.ext.cnncl" group-title="Otros",CNN Chile
+http://noquierouser.com/tvcl/offline/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdtv.png" tvg-id="cl.ext.cdtv" group-title="Otros",Cámara de Diputados Televisión
+http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionint.png" tvg-id="cl.ext.contivisionint" group-title="Otros",Contivisión Señal Internacional
+http://v1.streaminglatinoamerica.com:1935/contivision/contivision/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionmus.png" tvg-id="cl.ext.contivisionmus" group-title="Otros",Contivisión Música
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-estudiotv.png" tvg-id="cl.ext.estudiotv" group-title="Otros",Estudio TV
+http://evo.eltelon.com:1935/live/estudio-tv/estudio-tv.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-etctv.png" tvg-id="cl.ext.etctv" group-title="Otros",etc TV
+http://noquierouser.com/tvcl/offline/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-livtv.png" tvg-id="cl.ext.livtv" group-title="Otros",LivTV
+http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-puranoticia.png" tvg-id="cl.ext.puranoticia" group-title="Otros",Pura TV
+http://movilstream.digitalproserver.com/puranoti/puranotivivo/puranoti.smil/chunklist-b1564000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-rectv.png" tvg-id="cl.ext.rectv" group-title="Otros",REC TV
+http://noquierouser.com/tvcl/offline/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-teletrak.png" tvg-id="cl.ext.teletrak" group-title="Otros",Teletrak TV
+http://movilstream.digitalproserver.com/sporting/sportingvivo/sporting.smil/chunklist-b1548000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-tvsenado.png" tvg-id="cl.ext.tvsenado" group-title="Otros",TV Senado
+http://noquierouser.com/tvcl/offline/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-tvnint.png" tvg-id="cl.ext.tvnint" group-title="Otros",TV Chile
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-vivedeportes.png" tvg-id="cl.ext.vivedeportes" group-title="Otros",Vive!
+http://noquierouser.com/tvcl/offline/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-adn.png" tvg-id="cl.radio.adn" group-title="Radios",ADN Radio Chile
+http://2493.live.streamtheworld.com:80/ADNAAC_SC
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-bbclstgo.png" tvg-id="cl.radio.bbclstgo" group-title="Radios",Radio Bio Bío Santiago
+http://tunein.digitalproserver.com/biostgobb.aac
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-bbclconce.png" tvg-id="cl.radio.bbclconce" group-title="Radios",Radio Bio Bío Concepción
+http://tunein.digitalproserver.com/bioconcebb.aac
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-bbclvalpo.png" tvg-id="cl.radio.bbclvalpo" group-title="Radios",Radio Bio Bío Valparaíso/Viña del Mar
+http://tunein.digitalproserver.com/biovalpo
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-concierto.png" tvg-id="cl.radio.concierto" group-title="Radios",Radio Concierto
+http://2493.live.streamtheworld.com:80/CONCIERTO_SC
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-cooperativa.png" tvg-id="cl.radio.cooperativa" group-title="Radios",Radio Cooperativa
+http://209.88.205.240:80
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-festival.png" tvg-id="cl.radio.festival" group-title="Radios",Radio Festival
+http://www.festival.cl:8000/
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-imagina.png" tvg-id="cl.radio.imagina" group-title="Radios",Radio Imagina
+http://4323.live.streamtheworld.com:80/IMAGINA_SC
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-portales.png" tvg-id="cl.radio.portales" group-title="Radios",Radio Portales
+http://186.103.134.238:9996/
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-pudahuel.png" tvg-id="cl.radio.pudahuel" group-title="Radios",Radio Pudahuel
+http://7349.live.streamtheworld.com:80/PUDAHUEL_SC
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-uchile.png" tvg-id="cl.radio.uchile" group-title="Radios",Radio Universidad de Chile
+http://stream.radio.uchile.cl:80/
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-udec.png" tvg-id="cl.radio.udec" group-title="Radios",Radio UDEC
+http://radio.udec.cl:8000/radioudec
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-uno.png" tvg-id="cl.radio.uno" group-title="Radios",Radio UNO
+http://7349.live.streamtheworld.com:80/RADIO_UNO_SC
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-usach.png" tvg-id="cl.radio.usach" group-title="Radios",Radio USACH
+http://158.170.20.250:8080/
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-usachclasica.png" tvg-id="cl.radio.usachclasica" group-title="Radios",Radio USACH Señal Clásica
+http://senalclasica.radiousach.cl:8080/
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-rockandpop.png" tvg-id="cl.radio.rockandpop" group-title="Radios",Radio Rock & Pop
+http://4323.live.streamtheworld.com:80/ROCK_AND_POP_SC
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-utfsm.png" tvg-id="cl.radio.utfsm" group-title="Radios",Radio Universidad Técnica Federico Santa María
+http://mozart.usm.cl:8000
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-valentinletelier.png" tvg-id="cl.radio.valentinletelier" group-title="Radios",Radio Valentín Letelier
+http://radio.cl.mediastre.am/valentinletelier.aac
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-somospichilemu.png" tvg-id="cl.radio.somospichilemu" group-title="Radios",Radio Somos Pichilemu
+http://audio.streaminghd.cl:9036
+#EXTINF:-1 radio="true" tvg-logo="http://noquierouser.com/tvcl/logos/cl-radio-entreolas.png" tvg-id="cl.radio.entreolas" group-title="Radios",Radio Entre Olas
+http://stream5.eltelon.com/entreolas-fm.aac
