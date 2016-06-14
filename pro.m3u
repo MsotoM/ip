@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",WWE NETWORK
+http://ORBIT-IPTV.COM:2500/live/meer/meer/2211.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",BEIN SPORTS
+http://ORBIT-IPTV.COM:2500/live/meer/meer/2320.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png" group-title="NACIONALES",LA RED
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/ucv.png" group-title="NACIONALES",UCV 
@@ -238,6 +243,14 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/rpc.png" group-title="CINE Y SERIES",RPC PANAMA
 http://d2mteqzm2zbx7w.cloudfront.net/re-medcom-live-rpc.smil/chunklist_w150716830_b996000_slesp.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",AFRO MUSIC
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",HARDLIFE
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MÚSICA",VISUAL RADIO TV
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/telehit.png" group-title="MÚSICA",TELEHIT
 http://189.203.69.254:80/LIVE/H01/CANAL702/PROFILE02.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vh1.png" group-title="MÚSICA",VH1
@@ -258,7 +271,9 @@ http://189.203.69.254:80/LIVE/H01/CANAL732/PROFILE02.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tigomusic.png" group-title="MÚSICA",TIGO MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1hd.png" group-title="MÚSICA",1HD MUSIC CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1hd.png" group-title="MÚSICA",1HD MUSIC CHANNEL SD
+http://80.250.191.10:1935/live/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1hd.png" group-title="MÚSICA",1HD MUSIC CHANNEL HD
 http://545-tv.com/PREMIUM/wDnh0ZzX4LgNJ5A1/KANAL/MWhkLW11c2ljLWNoYW5uZWwtcmV6ZXJ2?.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dotdance.png" group-title="MÚSICA",DOT DANCE
 http://545-tv.com/PREMIUM/NO/KANAL/ZG90LWRhbmNlLWhkMg==?.m3u8
