@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1,sky action
+http://151.80.35.102:8090/hls/skyaction/stream.m3u8
+#EXTINF:-1,sky
+http://151.80.35.102:8090/hls/skyaliens/stream.m3u8
+#EXTINF:-1,sky atlantic
+http://151.80.35.102:8090/hls/skyatlanticuk/stream.m3u8
+#EXTINF:-1,sky comedy
+http://151.80.35.102:8090/hls/skycomedy/stream.m3u8
+#EXTINF:-1,disney
+http://151.80.35.102:8090/hls/skydisney/stream.m3u8
+#EXTINF:-1,sky drama
+http://151.80.35.102:8090/hls/skydrama/stream.m3u8
+#EXTINF:-1,sky family
+http://151.80.35.102:8090/hls/skyfamily/stream.m3u8
+#EXTINF:-1,sky living
+http://151.80.35.102:8090/hls/skyliving/stream.m3u8
+#EXTINF:-1,sky one
+http://151.80.35.102:8090/hls/sky_one/stream.m3u8
+#EXTINF:-1,sky two
+http://151.80.35.102:8090/hls/sky_two/stream.m3u8
+#EXTINF:-1,sky premier
+http://151.80.35.102:8090/hls/skypremier/stream.m3u8
+#EXTINF:-1,sky select
+http://151.80.35.102:8090/hls/skyselect/stream.m3u8
+#EXTINF:-1,sky superhero
+http://151.80.35.102:8090/hls/skysuperhero/stream.m3u8
+#EXTINF:-1,sky thriller
+http://151.80.35.102:8090/hls/skythriller/stream.m3u8
+#EXTINF:-1,sky sports 1
+http://151.80.35.102:8090/hls/skysports1/stream.m3u8
+#EXTINF:-1,sky sports 2
+http://151.80.35.102:8090/hls/skysports2/stream.m3u8
+#EXTINF:-1,sky sports 3
+http://151.80.35.102:8090/hls/skysports3/stream.m3u8
+#EXTINF:-1,sky sports 4
+http://151.80.35.102:8090/hls/skysports4/stream.m3u8
+#EXTINF:-1,sky sports 5
+http://151.80.35.102:8090/hls/skysports5/stream.m3u8
+#EXTINF:-1,sky sports f1
+http://151.80.35.102:8090/hls/skysportsf1/stream.m3u8
+#EXTINF:-1,sky sports news
+http://151.80.35.102:8090/hls/skysportsnews/stream.m3u8
+#EXTINF:-1,bt sports 1
+http://151.80.35.102:8090/hls/bt_sports1/stream.m3u8
+#EXTINF:-1,bt sports 2
+http://151.80.35.102:8090/hls/bt_sports2/stream.m3u8
+#EXTINF:-1,setanta ireland
+http://151.80.35.102:8090/hls/setantaireland/stream.m3u8
+#EXTINF:-1,nba tv hd
+http://151.80.35.102:8090/hls/nbatv_hd/stream.m3u8
+#EXTINF:-1,viasat sport baltic
+http://151.80.35.102:8090/hls/viasat_sport_baltic/stream.m3u8
+#EXTINF:-1,supertennis
+http://151.80.35.102:8090/hls/supertennis_hd/stream.m3u8
+#EXTINF:-1,moretennis
+http://151.80.35.102:8090/hls/moretennis/stream.m3u8
+#EXTINF:-1,premiere sports
+http://151.80.35.102:8090/hls/premieresports/stream.m3u8
+#EXTINF:-1,box nation
+http://151.80.35.102:8090/hls/boxnation/stream.m3u8
+#EXTINF:-1,https://iptv.zone/en chelsea tv
+http://151.80.35.102:8090/hls/chelseatv/stream.m3u8
+#EXTINF:-1,liverpool tv
+http://151.80.35.102:8090/hls/liverpooltv/stream.m3u8
+#EXTINF:-1,baltic
+http://151.80.35.102:8090/hls/baltijos/stream.m3u8
+#EXTINF:-1,channel 5
+http://151.80.35.102:8090/hls/channel5/stream.m3u8
+#EXTINF:-1,dave
+http://151.80.35.102:8090/hls/dave/stream.m3u8
+#EXTINF:-1,food network
+http://151.80.35.102:8090/hls/food_network/stream.m3u8
+#EXTINF:-1,itv1
+http://151.80.35.102:8090/hls/itv1/stream.m3u8
+#EXTINF:-1,itv2
+http://151.80.35.102:8090/hls/itv2/stream.m3u8
+#EXTINF:-1,itv3
+http://151.80.35.102:8090/hls/itv3/stream.m3u8
+#EXTINF:-1,itv4
+http://151.80.35.102:8090/hls/itv4/stream.m3u8
+#EXTINF:-1,kid zone
+http://151.80.35.102:8090/hls/kid_zone/stream.m3u8
+#EXTINF:-1,lnk
+http://151.80.35.102:8090/hls/lnk/stream.m3u8
+#EXTINF:-1,lrt tv
+http://151.80.35.102:8090/hls/lrt_tv/stream.m3u8
+#EXTINF:-1,lrytas
+http://151.80.35.102:8090/hls/lrytas/stream.m3u8
+#EXTINF:-1,ltv bew
+http://151.80.35.102:8090/hls/ltv_bew/stream.m3u8
+#EXTINF:-1,mutv
+http://151.80.35.102:8090/hls/mutv/stream.m3u8
+#EXTINF:-1,ren tv
+http://151.80.35.102:8090/hls/ren_tv/stream.m3u8
+#EXTINF:-1,tv1
+http://151.80.35.102:8090/hls/tv1/stream.m3u8
+#EXTINF:-1,tv3
+http://151.80.35.102:8090/hls/tv3/stream.m3u8
+#EXTINF:-1,tv6
+http://151.80.35.102:8090/hls/tv6/stream.m3u8
+#EXTINF:-1,tv8
+http://151.80.35.102:8090/hls/tv8/stream.m3u8
