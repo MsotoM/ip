@@ -7,15 +7,23 @@ http://ORBIT-IPTV.COM:2500/live/meer/meer/1668.m3u8
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1669.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal+ Liga
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1670.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal+ Accion
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1674.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal Futbol
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1085.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal Dcine
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1086.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Boing 
-http://ORBIT-IPTV.COM:2500/live/meer/meer/1299.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Boing 
-http://ORBIT-IPTV.COM:2500/live/meer/meer/1344.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",TEST 
+http://ORBIT-IPTV.COM:2500/live/meer/meer/3112.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",TEST 
+http://ORBIT-IPTV.COM:2500/live/meer/meer/3102.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",TEST 
+http://ORBIT-IPTV.COM:2500/live/meer/meer/1960.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",TEST 
+http://ORBIT-IPTV.COM:2500/live/meer/meer/3099.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",TEST 
+http://ORBIT-IPTV.COM:2500/live/meer/meer/1079.m3u8
+
 
 
 
