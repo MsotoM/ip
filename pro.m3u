@@ -7,7 +7,6 @@ http://ORBIT-IPTV.COM:2500/live/meer/meer/1668.m3u8
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1669.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal+ Liga
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1670.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal+ Comedia
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1674.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal Futbol
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1085.m3u8
@@ -114,13 +113,13 @@ http://195.154.207.145:8000/play/beinshd12
 http://188.165.46.79:1935/live/898953beins1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bein.png" group-title="DEPORTES",BEIN SPORT 2 FRANCIA
 http://188.165.46.79:1935/live/898953bein2.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT 1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/supersport1.png" group-title="DEPORTES",SUPER SPORT 1
 http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/supersport2.png" group-title="DEPORTES",SUPER SPORT 2
 http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT 3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/supersport3.png" group-title="DEPORTES",SUPER SPORT 3
 http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT 4
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/supersport4.png" group-title="DEPORTES",SUPER SPORT 4
 http://81.7.13.162/hls/ss4/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/arenasport%201.png" group-title="DEPORTES",ARENA SPORT 1
 http://149.202.85.84:8080/arenaSp1-94506afdjklfg/local/index.m3u8
