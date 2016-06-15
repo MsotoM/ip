@@ -1,18 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",WWE NETWORK
 http://ORBIT-IPTV.COM:2500/live/meer/meer/2211.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal+ Xtra
+http://ORBIT-IPTV.COM:2500/live/meer/meer/1668.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal+ Series Xtra
+http://ORBIT-IPTV.COM:2500/live/meer/meer/1669.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal+ Liga
+http://ORBIT-IPTV.COM:2500/live/meer/meer/1670.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal+ Comedia
+http://ORBIT-IPTV.COM:2500/live/meer/meer/1674.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal HD
+http://ORBIT-IPTV.COM:2500/live/meer/meer/1089.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal Futbol
+http://ORBIT-IPTV.COM:2500/live/meer/meer/1085.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal Dcine
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1086.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",CanalPlus Xtra
-http://ORBIT-IPTV.COM:2500/live/meer/meer/1668.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",CanalPlus Series Xtra
-http://ORBIT-IPTV.COM:2500/live/meer/meer/1669.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",CanalPlus Liga
-http://ORBIT-IPTV.COM:2500/live/meer/meer/1670.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",CanalPlus Decasa
-http://ORBIT-IPTV.COM:2500/live/meer/meer/1672.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",CanalPlus Accion
-http://ORBIT-IPTV.COM:2500/live/meer/meer/1674.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal Comedia
+http://ORBIT-IPTV.COM:2500/live/meer/meer/1090.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png" group-title="NACIONALES",LA RED
