@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="VOD INFANTIL",EL VIAJE DE ARLO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/vod/master/thegooddinosaur.jpg" group-title="VOD INFANTIL",EL VIAJE DE ARLO
 http://st.tv-vip.com/s/transcoder/El_viaje_de_Arlo.mp4/default/El_viaje_de_Arlo.mp4?t=1466037119&m=SBgnw8_-iH_PSB2gZb8FpQ&b=xxlWG0XVo-Jo5y5m0ZMu5w
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="VOD INFANTIL",BIG HEROES 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/vod/master/bighero6.jpg" group-title="VOD INFANTIL",BIG HEROES 6
 http://hs.tv-vip.com/s/transcoder/Big_Hero_6_1.mp4/360-mp4/Big_Hero_6_1.mp4.mp4?t=1466037256&m=GmpQ263uJL_mPABbV31-gA&b=ZrBYNrGfjxo9K0mdAXJlJQ
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="VOD INFANTIL",LOS ARISTOGATOS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/vod/master/thearistocats.jpg" group-title="VOD INFANTIL",LOS ARISTOGATOS
 http://hcb.tv-vip.com/s/transcoder/Los_aristogatos.mp4/default/Los_aristogatos.mp4?t=1466038039&m=v6UmjGBmLCPLRqQXV9bcXg&b=G3cYdxB0YTcGLappM4dQkw
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",WWE NETWORK
