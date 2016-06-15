@@ -9,14 +9,13 @@ http://ORBIT-IPTV.COM:2500/live/meer/meer/1669.m3u8
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1670.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal+ Comedia
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1674.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal HD
-http://ORBIT-IPTV.COM:2500/live/meer/meer/1089.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal Futbol
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1085.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal Dcine
 http://ORBIT-IPTV.COM:2500/live/meer/meer/1086.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Canal Comedia
-http://ORBIT-IPTV.COM:2500/live/meer/meer/1090.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="PPV",Boing (ITA)
+http://ORBIT-IPTV.COM:2500/live/meer/meer/2670.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/lared.png" group-title="NACIONALES",LA RED
