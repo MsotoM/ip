@@ -71,33 +71,33 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/pakapaka.png" group-title="INFANTIL",PAKAPAKA
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD1
 http://195.154.207.145:8000/play/beinshd1
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD2
 http://195.154.207.145:8000/play/beinshd2
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD3
 http://195.154.207.145:8000/play/beinshd3
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD4
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD4
 http://195.154.207.145:8000/play/beinshd4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD5
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD5
 http://195.154.207.145:8000/play/beinshd5
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD6
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD6
 http://195.154.207.145:8000/play/beinshd6
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD7
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD7
 http://195.154.207.145:8000/play/beinshd7
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD8
 http://195.154.207.145:8000/play/beinshd8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD9
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD9
 http://195.154.207.145:8000/play/beinshd9
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD10
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD10
 http://195.154.207.145:8000/play/beinshd10
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD11
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD11
 http://195.154.207.145:8000/play/beinshd11
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT HD12
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/beinhd.png" group-title="DEPORTES",BEIN SPORT HD12
 http://195.154.207.145:8000/play/beinshd12
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT 1 FRANCIA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bein.png" group-title="DEPORTES",BEIN SPORT 1 FRANCIA
 http://188.165.46.79:1935/live/898953beins1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",BEIN SPORT 2 FRANCIA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bein.png" group-title="DEPORTES",BEIN SPORT 2 FRANCIA
 http://188.165.46.79:1935/live/898953bein2.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT1
 http://81.7.13.162/hls/ss1/index.m3u8
