@@ -99,24 +99,18 @@ http://195.154.207.145:8000/play/beinshd12
 http://188.165.46.79:1935/live/898953beins1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bein.png" group-title="DEPORTES",BEIN SPORT 2 FRANCIA
 http://188.165.46.79:1935/live/898953bein2.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT 1
 http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT 2
 http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT 3
 http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT4
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT 4
 http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",FOX SPORTS (t1)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",FOX SPORTS (ARG)
 http://stream.ssh101.com:1935/live/foxlive3/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",FOX SPORTS (t2)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",FOX SPORTS (JPN)
 http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",FOX SPORT TK
-http://213.163.65.9:8081/live/foxsportk/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SPORTV2K
-http://213.163.65.9:8081/live/sportv2k/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",ESPN BRASIL
-http://213.163.65.9:8081/live/espnbrz/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/directv.png" group-title="DEPORTES",DIRECTV
 http://latino-webtv.ml/live/directv.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/espn.png" group-title="DEPORTES",ESPN
