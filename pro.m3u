@@ -107,10 +107,8 @@ http://81.7.13.162/hls/ss2/index.m3u8
 http://81.7.13.162/hls/ss3/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",SUPER SPORT 4
 http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",FOX SPORTS (ARG)
-http://stream.ssh101.com:1935/live/foxlive3/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="DEPORTES",FOX SPORTS (JPN)
-http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/arenasport%201.png.png" group-title="DEPORTES",ARENA SPORT 1
+http://149.202.85.84:8080/arenaSp1-94506afdjklfg/local/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/directv.png" group-title="DEPORTES",DIRECTV
 http://latino-webtv.ml/live/directv.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/espn.png" group-title="DEPORTES",ESPN
@@ -125,6 +123,10 @@ http://189.203.69.254:80/LIVE/H01/CANAL516/PROFILE02.m3u8?
 http://189.203.69.254:80/LIVE/H01/CANAL522/PROFILE02.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports.png" group-title="DEPORTES",FOX SPORTS (PTV)
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports.png" group-title="DEPORTES",FOX SPORTS (ARG)
+http://stream.ssh101.com:1935/live/foxlive3/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports.png" group-title="DEPORTES",FOX SPORTS (JPN)
+http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports2.png" group-title="DEPORTES",FOX SPORTS 2
 http://189.203.69.254:80/LIVE/H01/CANAL527/PROFILE02.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/foxsports3.png" group-title="DEPORTES",FOX SPORTS 3
