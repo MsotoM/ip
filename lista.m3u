@@ -493,3 +493,18 @@ http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/103
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/101
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bloomerang.png" group-title="VARIADOS",EL FINANCIERO BLOOMERANG
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/102
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/radiotiempo.png" group-title="RADIOEMISORAS",Radio Tiempo (Chile)
+http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/duna.png" group-title="RADIOEMISORAS",Radio Duna (Chile)
+http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/radiozero.png" group-title="RADIOEMISORAS",Radio Zero (Chile)
+http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/laclave.png" group-title="RADIOEMISORAS",Radio La Clave (Chile)
+http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/adn.png" group-title="RADIOEMISORAS",Radio ADN (Chile)
+http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cooperativa.png" group-title="RADIOEMISORAS",Radio Cooperativa (Chile)
+http://movilstream.digitalproserver.com/coopetv/coopetvvivo/coopetv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tele13radio.png" group-title="RADIOEMISORAS",Tele13 Radio (Chile)
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
