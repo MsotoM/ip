@@ -39,7 +39,7 @@ http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cnet.png" group-title="INFANTIL",CARTOON NETWORK
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/52
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cnet.png" group-title="INFANTIL",CARTOON NETWORK HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/cnetworkhd.png" group-title="INFANTIL",CARTOON NETWORK HD
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/124
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tooncast.png" group-title="INFANTIL",TOONCAST
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/56
@@ -52,9 +52,9 @@ http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/53
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/disneyjr.png" group-title="INFANTIL",DISNEY JR
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/46
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nick.png" group-title="INFANTIL",NICK
-http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/50
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nick.png" group-title="INFANTIL",NIKELODEON
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/51
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nickhd.png" group-title="INFANTIL",NICK HD
+http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/50
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nicktoons.png" group-title="INFANTIL",NICKTOONS
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/49
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/nickjr.png" group-title="INFANTIL",NICK JR
@@ -121,13 +121,13 @@ http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/32
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/axn.png" group-title="CINE Y SERIES",AXN
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/19
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/axn.png" group-title="CINE Y SERIES",AXN HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/axnhd.png" group-title="CINE Y SERIES",AXN HD
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/125
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sony.png" group-title="CINE Y SERIES",SONY (PTV)
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/7
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sony.png" group-title="CINE Y SERIES",SONY
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/15
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sony.png" group-title="CINE Y SERIES",SONY HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/sonyhd.png" group-title="CINE Y SERIES",SONY HD
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/120
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/warner.png" group-title="CINE Y SERIES",WB (PTV)
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/6
@@ -137,13 +137,13 @@ http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/16
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/11
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tnt.png" group-title="CINE Y SERIES",TNT
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/78
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tnt.png" group-title="CINE Y SERIES",TNT HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tnthd.png" group-title="CINE Y SERIES",TNT HD
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/121
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tntseries.png" group-title="CINE Y SERIES",TNT SERIES (PTV)
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/21
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tntseries.png" group-title="CINE Y SERIES",TNT SERIES
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/34
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tntseries.png" group-title="CINE Y SERIES",TNT SERIES HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tntserieshd.png" group-title="CINE Y SERIES",TNT SERIES HD
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/122
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/golden.png" group-title="CINE Y SERIES",GOLDEN
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/79
@@ -218,7 +218,7 @@ http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/92
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/93
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/espn.png" group-title="DEPORTES",ESPN
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/98
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/espn.png" group-title="DEPORTES",ESPN HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/espnhd.png" group-title="DEPORTES",ESPN HD
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/118
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/espn2.png" group-title="DEPORTES",ESPN 2
 http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/99
@@ -307,13 +307,9 @@ http://149.56.98.60:999/live/xanathos/53jh4gjk5hgl3jhg/112
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tigomusic.png" group-title="MUSICA",TIGO MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1hd.png" group-title="MUSICA",1HD MUSIC CHANNEL SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1hd.png" group-title="MUSICA",1HD MUSIC TELEVISION
 http://80.250.191.10:1935/live/livestream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/1hd.png" group-title="MUSICA",1HD MUSIC CHANNEL HD
-http://545-tv.com/PREMIUM/wDnh0ZzX4LgNJ5A1/KANAL/MWhkLW11c2ljLWNoYW5uZWwtcmV6ZXJ2?.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dotdance.png" group-title="MUSICA",DOT DANCE
-http://545-tv.com/PREMIUM/NO/KANAL/ZG90LWRhbmNlLWhkMg==?.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/dotdance.png" group-title="MUSICA",DOT DANCE 2
 http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/musicboxge.png" group-title="MUSICA",MUSIC BOX GE
 http://545-tv.com/PREMIUM/NO/KANAL/bXVzaWMtYm94LWdlbw==?.m3u8
@@ -327,8 +323,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
 http://highvolume02.streampartner.nl:1935/vleugels2/livestream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/heart.png" group-title="MUSICA",HEART TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/amazing.png" group-title="MUSICA",AMAZING
-http://545-tv.com/PREMIUM/NO/KANAL/YW1hemluZw==?.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/bgmusic.png" group-title="MUSICA",BG MUSIC CHANNEL
 http://87.120.201.2:80/rtplive/bgmusic_live.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/eskabest.png" group-title="MUSICA",ESKA BEST MUSIC
@@ -343,10 +337,6 @@ http://stream.smcloud.net/tv/wawa/wawa_480p/playlist.m3u8
 http://stream.smcloud.net/live/hiphoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/poloparty.png" group-title="MUSICA",POLO PARTY TV
 http://stream.smcloud.net/tv/polo_party/polo_party_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MUSICA",MUSICA:OUI FM TV
-http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MUSICA",HIT
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/europaplus.png" group-title="MUSICA",EUROPA PLUS 
 http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MUSICA",FORMUSIC
@@ -357,6 +347,10 @@ http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
 http://rtmp.one.by:1200
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/hitv.png" group-title="MUSICA",HITV
 http://live.rmg.cdnvideo.ru/rmg/rmg1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MUSICA",OUI FM TV
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/logo.png" group-title="MUSICA",HIT
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/history.png" group-title="DOCUMENTALES",HISTORY CHANNEL (PTV)
 http://pungatv.xyz:666/live/xanathoscl/Nonosabes-es-el-mejor/18
