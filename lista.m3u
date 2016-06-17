@@ -508,3 +508,46 @@ http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 http://movilstream.digitalproserver.com/coopetv/coopetvvivo/coopetv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/tele13radio.png" group-title="RADIOEMISORAS",Tele13 Radio (Chile)
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",ALADDIN
+http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",ALADDIN 2 EL RETORNO DE JAFAR
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",ALADDIN Y EL REY DE LOS LADRONES
+http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",ALICIA EN EL PAIS DE LAS MARAVILLAS(1951)
+http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",ALICIA EN EL PAIS DE LAS MARAVILLAS(2010)
+http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",ENREDADOS
+http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",FROZEN UNA AVENTURA CONGELADA
+http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",LA BELLA Y LA BESTIA
+http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",LA CENICIENTA(1950)
+http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",LA CENICIENTA 2 UN SUENO HECHO REALIDAD
+http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",LA PRINCESA Y EL SAPO
+http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",LA SIRENITA
+http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",LA SIRENITA 2 REGRESO AL MAR
+http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",LA SIRENITA LOS COMIENZOS DE ARIEL
+http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",MULAN
+http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",MULAN 2
+http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",POCAHONTAS
+http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",POCAHONTAS2
+http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",VALIENTE
+http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",CAPITAN AMERICA 1
+http://www.spruto.tv/get_file/5/99cf97e972d9eb68d08a64f6f26bb093/110000/110849/110849.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/imgc/master/vod.png"  group-title="VIDEO ON DEMAND",CAPITAN AMERICA 2
+http://www.spruto.tv/get_file/5/21f09609e8f51f3672f339b7553bb1b2/110000/110852/110852.mp4
